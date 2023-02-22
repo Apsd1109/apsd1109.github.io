@@ -5,6 +5,9 @@ categories:
 tags:
   - Easter
   - Reflection
+header:
+  image: /assets/images/responses-to-the-cross-1.jpg
+  caption: "Photo by: [Avel Chuklanov](https://unsplash.com/@chuklanov)"
 ---
 
 The crowds gathered in front of the city, singing to him  
