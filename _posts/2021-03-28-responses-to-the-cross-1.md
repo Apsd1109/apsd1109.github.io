@@ -6,7 +6,8 @@ tags:
   - Easter
   - Reflection
 header:
-  image: /assets/images/responses-to-the-cross-1.jpg
+  overlay_image: /assets/images/responses-to-the-cross-1.jpg
+  overlay_filter: 0.5
   caption: "Photo by: [Avel Chuklanov](https://unsplash.com/@chuklanov)"
 ---
 
