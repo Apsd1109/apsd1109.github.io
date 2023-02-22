@@ -21,6 +21,8 @@ How can this man truly free us from our Roman oppressors?
 He dares to blaspheme, to call himself God!  
 This man is definitely not the messiah we are looking for.
 
+---
+
 How often is it that we become critical of God?  
 Thinking that if He doesn’t fit  
 The way we see things, the way we want things to be,  
