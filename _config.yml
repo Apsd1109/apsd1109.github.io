@@ -111,7 +111,7 @@ defaults:
       author_profile: true
 
 collections:
-  posts:
+  blogs:
     output: true
     permalink: /:collection/:path/
 
