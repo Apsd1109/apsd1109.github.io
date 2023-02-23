@@ -110,6 +110,11 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
 category_archive:
   type: liquid
   path: /categories/
