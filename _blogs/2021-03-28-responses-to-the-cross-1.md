@@ -1,5 +1,6 @@
 ---
 title: "Responses to the Cross (1/3)"
+date: 2021-03-28
 categories:
   - Blog
 tags:
