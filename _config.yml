@@ -86,10 +86,10 @@ footer:
       url: "https://github.com/Apsd1109"
 
 defaults:
-  # _posts
+  # _blogs
   - scope:
       path: "_blogs"
-      type: posts
+      type: blogs
     values:
       layout: single
       author_profile: true
