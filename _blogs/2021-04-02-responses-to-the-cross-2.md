@@ -9,7 +9,7 @@ header:
   teaser: /assets/images/responses-to-the-cross-2.jpg
   overlay_image: /assets/images/responses-to-the-cross-2.jpg
   overlay_filter: 0.5
-  caption: "Photo by: [Eberhard Grossgasteiger](https://unsplash.com/@eberhardgross)"
+  caption: "Photo by: [Eberhard Grossgasteiger](https://unsplash.com/photos/CytHrRFp2wU)"
 excerpt: “You were with that Nazarene, Jesus, weren’t you?”...
 ---
 
