@@ -3,6 +3,44 @@ permalink: /career/
 title: "Career"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Education
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+- Candidate for BASc, Honours Computer Engineering @ University of Waterloo, Sept. 2019 - Apr. 2024
+
+# Working Experience
+
+## Software Dev Engineer Intern @ AWS (Amazon Web Services)
+
+- Currently working here! More to come soon :)
+
+## Software Developer Intern @ UKG (Ultimate Kronos Group)
+
+- Improved website usability by reducing API payloads, decreasing wait times by more than 95%
+
+## Innovation Developer Intern @ Sun Life Financial
+
+- Reduced operational costs by 30% by researching, designing, and implementing guided tours using React and Shepherd.js; Approved for funding and wider integration by the CFO and CTO
+
+## Junior Architect Intern @ Sun Life Financial
+
+- Revised project and governance processes to increase transparency and efficiency between by analizing the needs of multiple stakeholder groups, creating documentation and training other teams
+
+## Junior Developer Intern @ Stealth Monitoring
+
+- Enhanced diagnostics capabilities by automating the collection of ONVIF-compliant device data
+
+[Read more on my LinkedIn...](https://www.linkedin.com/in/andasu/)
+
+# Projects
+
+## [UMigrate - Student Networking App](https://github.com/Team-uMigrate/umigrate/)
+
+### Cloud-Ops Team
+
+- Accelerated development and operations workflow with automated testing pipelines and continuous deployment to multiple environments within Azure DevOps (CI/CD)
+- Led automated PostgreSQL database backup efforts using Azure file services to enable flexible deployment strategies and to increase data security
+
+### Product Design Team Lead
+
+- Led discussions in performing market surveys and SWOT analysis to create space for innovative ideas
+- Designed and evaluated product requirements and features to provide clarity for developers
