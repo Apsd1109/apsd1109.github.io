@@ -1,6 +1,10 @@
 ---
 permalink: /career/
 title: "Career"
+toc: true
+toc_label: "On this page"
+toc_icon: "file-alt"
+toc_sticky: true
 ---
 
 # Education
