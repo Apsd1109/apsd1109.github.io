@@ -26,18 +26,17 @@ feature_row:
   - image_path: /assets/images/responses-to-the-cross-3.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
-    link: "/blog"
     url: "/blog"
     btn_label: "Read blogs"
     btn_class: "btn--primary"
-    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    # excerpt: "Explore my latest blogs"
   - image_path: /assets/images/brownies-simplified-1.jpg
     alt: "Photo from latest recipe"
     title: "Recipes"
-    link: "/recipes"
     url: "/recipes"
     btn_label: "Read recipes"
     btn_class: "btn--primary"
+    # excerpt: "Read my recipes"
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/image.jpg
@@ -45,7 +44,7 @@ feature_row:
     title: "Photography"
     link: "/photography"
     url: "/photography"
-    btn_label: "Read blogs"
+    btn_label: "View portfolio"
     btn_class: "btn--primary"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
