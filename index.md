@@ -26,6 +26,7 @@ feature_row:
   - image_path: /assets/images/responses-to-the-cross-3.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
+    link: "/blog"
     url: "/blog"
     btn_label: "Read blogs"
     btn_class: "btn--primary"
@@ -33,6 +34,7 @@ feature_row:
   - image_path: /assets/images/brownies-simplified-1.jpg
     alt: "Photo from latest recipe"
     title: "Recipes"
+    link: "/recipes"
     url: "/recipes"
     btn_label: "Read recipes"
     btn_class: "btn--primary"
@@ -41,6 +43,7 @@ feature_row:
   - image_path: /assets/images/image.jpg
     alt: "Photo from photography portfolio"
     title: "Photography"
+    link: "/photography"
     url: "/photography"
     btn_label: "Read blogs"
     btn_class: "btn--primary"
