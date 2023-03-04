@@ -93,66 +93,66 @@ My major takeaway was this:
 
 1. Do work well, and let that be it, not to the point of meaningless toil (in another sense, don't just work blindly). Learn to recognize what is already around you and enjoy the simpler things.
 
-This gave a lot more meaning as I recalled another passage in Matthew:
+   This gave a lot more meaning as I recalled another passage in Matthew:
 
-**Matthew 6:25–34**
+   **Matthew 6:25–34**
 
-> "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
-> Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
-> Can any one of you by worrying add a single hour to your life?
-> And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.
-> Yet I tell you that not even Solomon in all his splendor was dressed like one of these.
-> If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you — you of little faith?
-> So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'
-> For the pagans run after all these things, and your heavenly Father knows that you need them.
-> But seek first his kingdom and his righteousness, and all these things will be given to you as well.
-> Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+   > "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
+   > Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
+   > Can any one of you by worrying add a single hour to your life?
+   > And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.
+   > Yet I tell you that not even Solomon in all his splendor was dressed like one of these.
+   > If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you — you of little faith?
+   > So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'
+   > For the pagans run after all these things, and your heavenly Father knows that you need them.
+   > But seek first his kingdom and his righteousness, and all these things will be given to you as well.
+   > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
 
-It's funny how this passage in Matthew is given the heading: "Do Not Worry".  
-It's such a simple thing, yet, a difficult thing for anyone to do! (Try telling the next person you talk to only these three words and see whether or not it really helps)
+   It's funny how this passage in Matthew is given the heading: "Do Not Worry".  
+   It's such a simple thing, yet, a difficult thing for anyone to do! (Try telling the next person you talk to only these three words and see whether or not it really helps)
 
-But the truth is this:
+   But the truth is this:
 
 2. There's no point in worrying about the things beyond your control as it does nothing. Leave tomorrow's worries for tomorrow, since an individual day already has enough troubles on its own. Yet, God provides, so trust in Him!
 
-Combining this with the passage from Ecclesiastes gave me clarity on how to approach work, even though there were a lot of uncertainties and an overwhelming amount of things to do.  
-It showed me that I can attend to my work that's immediately in front of me, and do it well, while also not needing to worry about things beyond me, since I can leave those things to the Lord!
+   Combining this with the passage from Ecclesiastes gave me clarity on how to approach work, even though there were a lot of uncertainties and an overwhelming amount of things to do.  
+   It showed me that I can attend to my work that's immediately in front of me, and do it well, while also not needing to worry about things beyond me, since I can leave those things to the Lord!
 
-My job rankings came out a couple days after all of this.  
-While I didn't get any offers (which again, is what I — wanting full control over my life — wanted), I still got a chance to submit my ranks.  
-I struggled once again wondering how I should rank the three different companies.  
-"Should I just hedge my bets and submit a high rank for one of the companies I don't want to work for? After all, I still did decently in the interviews!"  
-And so I prayed, "God, provide me wisdom to make the right decision, and help me to trust your plans, which are the best for your kingdom."
+   My job rankings came out a couple days after all of this.  
+   While I didn't get any offers (which again, is what I — wanting full control over my life — wanted), I still got a chance to submit my ranks.  
+   I struggled once again wondering how I should rank the three different companies.  
+   "Should I just hedge my bets and submit a high rank for one of the companies I don't want to work for? After all, I still did decently in the interviews!"  
+   And so I prayed, "God, provide me wisdom to make the right decision, and help me to trust your plans, which are the best for your kingdom."
 
-As I read through my results the day after, I was shocked.  
-In my mind, I thought I'd never get the job I was hoping for originally.  
-Yet, God has provided, and provided quite generously!
+   As I read through my results the day after, I was shocked.  
+   In my mind, I thought I'd never get the job I was hoping for originally.  
+   Yet, God has provided, and provided quite generously!
 
-The last passage I want to share is in Matthew 7:
+   The last passage I want to share is in Matthew 7:
 
-**Matthew 7:7–12**
+   **Matthew 7:7–12**
 
-> "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.
-> For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
-> Which of you, if your son asks for bread, will give him a stone?
-> Or if he asks for a fish, will give him a snake?
-> If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!
-> So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."
+   > "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.
+   > For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+   > Which of you, if your son asks for bread, will give him a stone?
+   > Or if he asks for a fish, will give him a snake?
+   > If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!
+   > So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."
 
-I recalled this verse, and it broke my heart as I realized this: All this time, I've been relying on what I can do, even if it involves things that are not within my grasp. And never once did I go to God asking for His good gifts.  
-To be honest, I find it extremely hard to ask others for anything.  
-At that moment, I thought about all the interactions I've had with people, especially with my dad. And it often boiled down to this: Take care of things yourself, because everyone else is too busy, so if you need someone's help, make it as convenient as possible and as brief as possible for others.  
-I realized that I had also been treating my Heavenly Father in the same way: "God give me wisdom so I can go ahead and do it."
-While asking God for wisdom is indeed a good thing, I realized my posture towards Him was, "God, let me do it on my own."
+   I recalled this verse, and it broke my heart as I realized this: All this time, I've been relying on what I can do, even if it involves things that are not within my grasp. And never once did I go to God asking for His good gifts.  
+   To be honest, I find it extremely hard to ask others for anything.  
+   At that moment, I thought about all the interactions I've had with people, especially with my dad. And it often boiled down to this: Take care of things yourself, because everyone else is too busy, so if you need someone's help, make it as convenient as possible and as brief as possible for others.  
+   I realized that I had also been treating my Heavenly Father in the same way: "God give me wisdom so I can go ahead and do it."
+   While asking God for wisdom is indeed a good thing, I realized my posture towards Him was, "God, let me do it on my own."
 
-My final takeaway is this:
+   My final takeaway is this:
 
 3. God is good and generous! You can come to Him asking for good gifts, because he is willing! Don't treat your relationship with Him as "just another person", but rather, you can approach Him knowing that the Lord is a perfect and loving Father!
 
-I can only come out of this praising God for His goodness, and thanking Him for using this time to reveal to me these things:  
-Do not work to the point of meaningless toil, but rather being faithful to what is in front of you, working it well and also slowing down to enjoy the simpler things.  
-At the same time, recognize that God is in control, and there is no point in worrying about things that are not in your control, rather, look to what God has planned for His kingdom, and take part in that!  
-Finally, you can come to God asking for good gifts. He is perfect, loving, and generous!
+   I can only come out of this praising God for His goodness, and thanking Him for using this time to reveal to me these things:  
+   Do not work to the point of meaningless toil, but rather being faithful to what is in front of you, working it well and also slowing down to enjoy the simpler things.  
+   At the same time, recognize that God is in control, and there is no point in worrying about things that are not in your control, rather, look to what God has planned for His kingdom, and take part in that!  
+   Finally, you can come to God asking for good gifts. He is perfect, loving, and generous!
 
 Happy Thanksgiving!
 
