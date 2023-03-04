@@ -88,7 +88,7 @@ But I continued to listen, and slowly, it turned into exactly what I needed to h
 > Also, if two lie down together, they will keep warm. But how can one keep warm alone?
 > Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.
 
-The Reflections podcast by the Bible Project went on to explain how Ecclesiastes should frame our mindset when it comes to responsibilities (and they explain it pretty well, so I recommend checking it out).  
+[The Reflections podcast by the Bible Project](https://bibleproject.com/bible-studies/one-handful-of-rest/) went on to explain how Ecclesiastes should frame our mindset when it comes to responsibilities (and they explain it pretty well, so I recommend checking it out).  
 My major takeaway was this:
 
 1. Do work well, and let that be it, not to the point of meaningless toil (in another sense, don't just work blindly). Learn to recognize what is already around you and enjoy the simpler things.
