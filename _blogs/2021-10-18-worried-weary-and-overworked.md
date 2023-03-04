@@ -7,10 +7,10 @@ tags:
   - Thanksgiving
   - Reflections
 header:
-  teaser: /assets/images/image.jpg
-  overlay_image: /assets/images/image.jpg
+  teaser: /assets/images/worried-weary-and-overworked-1.jpg
+  overlay_image: /assets/images/worried-weary-and-overworked-1.jpg
   overlay_filter: 0.5
-  # caption: "Photo by: [Pisit Heng](https://unsplash.com/photos/ci1F55HaVWQ)"
+  caption: "Photo by: [Hope House Press](https://unsplash.com/photos/PJzc7LOt2Ig)"
 excerpt: ""
 ---
 
