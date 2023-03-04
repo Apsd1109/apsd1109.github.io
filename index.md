@@ -16,7 +16,7 @@ header:
       url: "/career/"
     - label: "Resume"
       url: #
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo by me, Seattle, WA, 2023"
 excerpt: "Welcome to my page — a place where you can get to know more about me, explore my works, and share in my interests.
 
 "
