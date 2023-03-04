@@ -16,10 +16,7 @@
 title: Anda Su
 email: anda.su@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-# twitter_username: username
+  Website of Anda Su. Get to know him, his career experiences, read his blogs and recipes, and more!
 github_username: Apsd1109
 minimal_mistakes_skin: air
 search: true
@@ -61,7 +58,7 @@ plugins:
 author:
   name: "Anda Su"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "Just a guy trying to follow Jesus through the everyday stuff of life."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
