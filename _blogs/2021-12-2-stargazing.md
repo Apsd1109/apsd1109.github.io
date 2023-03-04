@@ -127,7 +127,7 @@ I’ve decided to include some extended passages (or entire books in some cases 
 
 To provide some context to most of these readings: Back in the times of the Old Testament, things slowly become more and more hopeless. Especially during the time when the very first temple (the one built by King Solomon) was destroyed, and the Israelites were carried away into exile. I’ve selected these passages as they provide a balance between the despair and the hope that the prophets had in God.
 
-⭐ Lamentations
-⭐ Jeremiah 30–33
-⭐ Habakkuk
+⭐ Lamentations  
+⭐ Jeremiah 30–33  
+⭐ Habakkuk  
 ⭐ Ezekiel 34–37, 47:1–12
