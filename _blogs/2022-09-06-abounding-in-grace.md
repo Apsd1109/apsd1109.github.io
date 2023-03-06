@@ -70,7 +70,7 @@ In other words, after receiving ultimate grace, our lives are completely transfo
 
 I experienced this type of grace during my co-op not just once, but twice!
 
-I detailed some of my experience through the interview process in a [post I made last year](https://medium.com/uwccf/worried-weary-and-overworked-343ce61f9cfa). But to keep the story short, I was graced with the job I never deserved. I’d say I completely bombed the interview. Yet, the HR team at UKG (the company I worked at) generously offered me the job, despite my shortcomings during the interview.
+I detailed some of my experience through the interview process in a [post I made last year](https://apsd1109.github.io/blogs/worried-weary-and-overworked/). But to keep the story short, I was graced with the job I never deserved. I’d say I completely bombed the interview. Yet, the HR team at UKG (the company I worked at) generously offered me the job, despite my shortcomings during the interview.
 
 Being a recipient of grace, I desired to do the best I could during my internship; by learning as quickly as I could, working efficiently and improving the quality of my work week by week — all with the reminder that I ought to be a good steward.
 
