@@ -4,7 +4,7 @@ date: 2021-08-30
 categories:
   - Blog
 tags:
-  - Reflections
+  - Reflection
 header:
   teaser: /assets/images/cough-syrup-and-honey-1.jpg
   overlay_image: /assets/images/cough-syrup-and-honey-1.jpg

@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Thanksgiving
-  - Reflections
+  - Reflection
 header:
   teaser: /assets/images/worried-weary-and-overworked-1.jpg
   overlay_image: /assets/images/worried-weary-and-overworked-1.jpg
