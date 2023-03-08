@@ -12,7 +12,7 @@ header:
   teaser: /assets/images/a-rooted-resolution-1.jpg
   overlay_image: /assets/images/a-rooted-resolution-1.jpg
   overlay_filter: 0.5
-  caption: "[…] his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers." — Psalm 1:2–3 | [AI generated art, from NightCafe](https://creator.nightcafe.studio/creation/r8JwVBHiCBCaJFuVC0ii)"
+  caption: "[…] his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers." — Psalm 1:2–3 | [AI generated art, from NightCafe](https://creator.nightcafe.studio/creation/r8JwVBHiCBCaJFuVC0ii)
 excerpt: As we celebrate the New Year and look forward to the things to accomplish, I wanted to reflect and share on this past term (Fall 2022)...
 ---
 
