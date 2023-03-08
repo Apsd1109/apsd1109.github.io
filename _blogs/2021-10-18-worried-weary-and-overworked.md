@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/worried-weary-and-overworked-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Hope House Press](https://unsplash.com/photos/PJzc7LOt2Ig)"
-excerpt: ""
+excerpt: If you are like me, you worry about a LOT of things...
 ---
 
 If you are like me, you worry about a LOT of things.  
