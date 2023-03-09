@@ -9,11 +9,11 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/responses-to-the-cross-3.jpg
-  image: /assets/images/responses-to-the-cross-3.jpg
-  overlay_filter: 0.5
-  caption: "Photo by: [Pisit Heng](https://unsplash.com/photos/ci1F55HaVWQ)"
 excerpt: '"Simon son of John, do you love me more than these?..."'
 ---
+
+![](/assets/images/responses-to-the-cross-3.jpg)
+_Photo by: [Pisit Heng](https://unsplash.com/photos/ci1F55HaVWQ)_
 
 "Simon son of John, do you love me more than these?"  
 "Yes, Lord, you know that I love you."  

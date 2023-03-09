@@ -9,11 +9,11 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/worried-weary-and-overworked-1.jpg
-  image: /assets/images/worried-weary-and-overworked-1.jpg
-  overlay_filter: 0.5
-  caption: "Photo by: [Hope House Press](https://unsplash.com/photos/PJzc7LOt2Ig)"
 excerpt: If you are like me, you worry about a LOT of things...
 ---
+
+![](/assets/images/worried-weary-and-overworked-1.jpg)
+_Photo by: [Hope House Press](https://unsplash.com/photos/PJzc7LOt2Ig)_
 
 If you are like me, you worry about a LOT of things.  
 "How do I stay on top of all my academics?"  

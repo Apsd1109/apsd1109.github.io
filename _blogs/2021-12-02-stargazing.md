@@ -9,15 +9,15 @@ tags:
   - Christmas
 header:
   teaser: /assets/images/stargazing-1.jpg
-  image: /assets/images/stargazing-1.jpg
-  overlay_filter: 0.5
-  caption: Photo by me, The Ark (McKellar, ON), 2019
 excerpt: Christmas Devotions (2/3)
 ---
 
 This is the second installment of a three-part devotional series written on the [UWCCF blog](https://medium.com/uwccf). You can find the [first](https://medium.com/uwccf/jesus-the-good-shepherd-f43cd9458529) and the [third](https://medium.com/uwccf/the-gift-of-peace-f7b46e07fe90) one there!
 
 ---
+
+![](/assets/images/stargazing-1.jpg)
+_Photo by me, The Ark (McKellar, ON), 2019_
 
 As a kid, I was captivated by the grandeur and vastness of the night sky — so much so to the point of getting a telescope for myself to be able to see the stars up close! Unfortunately, because I lived in the city, it was difficult to even find a single star (and not confuse it for an airplane passing by 😂). But I hoped that one day, I'd be able to see more stars!
 

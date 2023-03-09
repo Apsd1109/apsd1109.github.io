@@ -9,11 +9,11 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/responses-to-the-cross-1.jpg
-  image: /assets/images/responses-to-the-cross-1.jpg
-  overlay_filter: 0.5
-  caption: "Photo by: [Avel Chuklanov](https://unsplash.com/photos/Msoo0EfMl14)"
 excerpt: The crowds gathered in front of the city, singing to him...
 ---
+
+![](/assets/images/responses-to-the-cross-1.jpg)
+_Photo by: [Avel Chuklanov](https://unsplash.com/photos/Msoo0EfMl14)_
 
 The crowds gathered in front of the city, singing to him  
 "Hosanna!  

@@ -7,11 +7,11 @@ tags:
   - Dessert
 header:
   teaser: /assets/images/brownies-simplified-1.jpg
-  image: /assets/images/brownies-simplified-1.jpg
-  overlay_filter: 0.5
-  caption: "My first ever batch of tahini swirl brownies!"
 excerpt: "A timeless template for brownies. Play around with it as you please!"
 ---
+
+![](/assets/images/brownies-simplified-1.jpg)
+_My first ever batch of tahini swirl brownies!_
 
 I recently came up with a much simpler recipe for brownies. Brownies are one of the easiest desserts to make! The prep work is minimal, and baking doesn’t take long as well.  
 The goal of this post is to give you a simple framework and go-to recipe. I highly recommend looking around for more ideas/inspiration for modifying your brownies to your liking!  

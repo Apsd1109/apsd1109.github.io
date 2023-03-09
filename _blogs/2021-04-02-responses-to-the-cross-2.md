@@ -9,11 +9,11 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/responses-to-the-cross-2.jpg
-  image: /assets/images/responses-to-the-cross-2.jpg
-  overlay_filter: 0.5
-  caption: "Photo by: [Eberhard Grossgasteiger](https://unsplash.com/photos/CytHrRFp2wU)"
 excerpt: \"You were with that Nazarene, Jesus, weren't you?...\"
 ---
+
+![](/assets/images/responses-to-the-cross-2.jpg)
+_Photo by: [Eberhard Grossgasteiger](https://unsplash.com/photos/CytHrRFp2wU)_
 
 "You were with that Nazarene, Jesus, weren't you?"  
 "I neither know nor understand what you mean."

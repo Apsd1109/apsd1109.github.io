@@ -10,15 +10,15 @@ tags:
   - Psalms
 header:
   teaser: /assets/images/with-every-breath-thanksgiving-1.jpg
-  image: /assets/images/with-every-breath-thanksgiving-1.jpg
-  overlay_filter: 0.5
-  caption: "Photo by: [Adeyemi Emmanuel Abebayo](https://unsplash.com/photos/3eSZaVlxsLw)"
 excerpt: A prayer through Psalm 150
 ---
 
 This is the last installment of a five-part Thanksgiving series based on Psalm 146-150, written on the [UWCCF blog](https://medium.com/uwccf). You can find the [first](https://medium.com/uwccf/trustworthy-god-thanksgiving-2022-a866ccd912c4), [second](https://medium.com/uwccf/praise-charity-providence-and-scripture-thanksgiving-2022-b105cbc1091), [third](https://medium.com/uwccf/all-you-creation-thanksgiving-2022-8c7882b2e164), and [fourth](https://medium.com/uwccf/path-of-worship-thanksgiving-2022-b0fe41dfc56e) one there!
 
 ---
+
+![](/assets/images/with-every-breath-thanksgiving-1.jpg)
+_Photo by: [Adeyemi Emmanuel Abebayo](https://unsplash.com/photos/3eSZaVlxsLw)_
 
 > Praise the Lord!
 > Praise God in his sanctuary; praise him in his mighty heavens!
