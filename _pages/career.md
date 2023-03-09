@@ -13,25 +13,27 @@ toc_sticky: true
 
 # Working Experience
 
-## Software Dev Engineer Intern @ AWS (Amazon Web Services)
+## AWS (Amazon Web Services)
 
-- Currently working here! More to come soon :)
+- Software Dev Engineer Intern
+  - Currently working here! More to come soon :)
 
-## Software Developer Intern @ UKG (Ultimate Kronos Group)
+## UKG (Ultimate Kronos Group)
 
-- Improved website usability by reducing API payloads, decreasing wait times by more than 95%
+- Software Developer Intern
+  - Improved website usability by reducing API payloads, decreasing wait times by more than 95%
 
-## Innovation Developer Intern @ Sun Life Financial
+## Sun Life Financial
 
-- Reduced operational costs by 30% by researching, designing, and implementing guided tours using React and Shepherd.js; Approved for funding and wider integration by the CFO and CTO
+- Innovation Developer Intern
+  - Reduced operational costs by 30% by researching, designing, and implementing guided tours using React and Shepherd.js; Approved for funding and wider integration by the CFO and CTO
+- Junior Architect Intern
+  - Revised project and governance processes to increase transparency and efficiency between by analizing the needs of multiple stakeholder groups, creating documentation and training other teams
 
-## Junior Architect Intern @ Sun Life Financial
+## Stealth Monitoring
 
-- Revised project and governance processes to increase transparency and efficiency between by analizing the needs of multiple stakeholder groups, creating documentation and training other teams
-
-## Junior Developer Intern @ Stealth Monitoring
-
-- Enhanced diagnostics capabilities by automating the collection of ONVIF-compliant device data
+- Junior Developer Intern
+  - Enhanced diagnostics capabilities by automating the collection of ONVIF-compliant device data
 
 [Read more on my LinkedIn...](https://www.linkedin.com/in/andasu/)
 
