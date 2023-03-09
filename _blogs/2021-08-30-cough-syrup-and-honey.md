@@ -8,11 +8,14 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/cough-syrup-and-honey-1.jpg
-  image: /assets/images/cough-syrup-and-honey-1.jpg
+  # image: /assets/images/cough-syrup-and-honey-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Danika Perkinson](https://unsplash.com/photos/ZhA9vZQPTeE)"
 excerpt: When I was much younger, I was told, "Just read the bible, it's good for you!..."
 ---
+
+![](/assets/images/cough-syrup-and-honey-1.jpg)
+_When I was much younger, I was told, "Just read the bible, it's good for you!..."_
 
 When I was much younger, I was told, "Just read the bible, it's good for you! Just believe! It'll have a huge effect on your life!". But I wasn't too sure how it would be any good. I often thought, "Meh, I'm getting enough from Sunday school and sermons. I get the big picture, so why bother? It's too much work for irrelevant stuff anyways!".
 
