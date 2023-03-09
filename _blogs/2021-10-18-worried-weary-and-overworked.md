@@ -77,17 +77,15 @@ As soon as they mentioned the book of Ecclesiastes, my eyes rolled,
 "Great, the book of wisdom that talks about meaninglessness, how encouraging. 🙄"  
 But I continued to listen, and slowly, it turned into exactly what I needed to hear!
 
-**Ecclesiastes 4:4–12**
-
-> And I saw that all toil and all achievement spring from one person's envy of another. This too is meaningless, a chasing after the wind.
-> Fools fold their hands and ruin themselves.
-> Better one handful with tranquillity than two handfuls with toil and chasing after the wind.
-> Again I saw something meaningless under the sun:
-> There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. ‘For whom am I toiling,' he asked, ‘and why am I depriving myself of enjoyment?' This too is meaningless — a miserable business!
-> Two are better than one, because they have a good return for their labor:
-> If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.
-> Also, if two lie down together, they will keep warm. But how can one keep warm alone?
-> Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken.
+> And I saw that all toil and all achievement spring from one person's envy of another. This too is meaningless, a chasing after the wind.  
+> Fools fold their hands and ruin themselves.  
+> Better one handful with tranquillity than two handfuls with toil and chasing after the wind.  
+> Again I saw something meaningless under the sun:  
+> There was a man all alone; he had neither son nor brother. There was no end to his toil, yet his eyes were not content with his wealth. "For whom am I toiling," he asked, "and why am I depriving myself of enjoyment?" This too is meaningless — a miserable business!  
+> Two are better than one, because they have a good return for their labor:  
+> If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up.  
+> Also, if two lie down together, they will keep warm. But how can one keep warm alone?  
+> Though one may be overpowered, two can defend themselves. A cord of three strands is not quickly broken. - Ecclesiastes 4:4–12
 
 [The Reflections podcast by the Bible Project](https://bibleproject.com/bible-studies/one-handful-of-rest/) went on to explain how Ecclesiastes should frame our mindset when it comes to responsibilities (and they explain it pretty well, so I recommend checking it out).  
 My major takeaway was this:
@@ -96,18 +94,16 @@ My major takeaway was this:
 
    This gave a lot more meaning as I recalled another passage in Matthew:
 
-   **Matthew 6:25–34**
-
-   > "Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?
-   > Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
-   > Can any one of you by worrying add a single hour to your life?
-   > And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.
-   > Yet I tell you that not even Solomon in all his splendor was dressed like one of these.
-   > If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you — you of little faith?
-   > So do not worry, saying, ‘What shall we eat?' or ‘What shall we drink?' or ‘What shall we wear?'
-   > For the pagans run after all these things, and your heavenly Father knows that you need them.
-   > But seek first his kingdom and his righteousness, and all these things will be given to you as well.
-   > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."
+   > Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?  
+   > Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?  
+   > Can any one of you by worrying add a single hour to your life?  
+   > And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.  
+   > Yet I tell you that not even Solomon in all his splendor was dressed like one of these.  
+   > If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you — you of little faith?  
+   > So do not worry, saying, "What shall we eat?" or "What shall we drink?" or "What shall we wear?"  
+   > For the pagans run after all these things, and your heavenly Father knows that you need them.  
+   > But seek first his kingdom and his righteousness, and all these things will be given to you as well.  
+   > Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. - Matthew 6:25–34
 
    It's funny how this passage in Matthew is given the heading: "Do Not Worry".  
    It's such a simple thing, yet, a difficult thing for anyone to do! (Try telling the next person you talk to only these three words and see whether or not it really helps)
@@ -131,14 +127,12 @@ My major takeaway was this:
 
    The last passage I want to share is in Matthew 7:
 
-   **Matthew 7:7–12**
-
-   > "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.
-   > For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
-   > Which of you, if your son asks for bread, will give him a stone?
-   > Or if he asks for a fish, will give him a snake?
-   > If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!
-   > So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets."
+   > Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.  
+   > For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.  
+   > Which of you, if your son asks for bread, will give him a stone?  
+   > Or if he asks for a fish, will give him a snake?  
+   > If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!  
+   > So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets. - Matthew 7:7–12
 
    I recalled this verse, and it broke my heart as I realized this: All this time, I've been relying on what I can do, even if it involves things that are not within my grasp. And never once did I go to God asking for His good gifts.  
    To be honest, I find it extremely hard to ask others for anything.  

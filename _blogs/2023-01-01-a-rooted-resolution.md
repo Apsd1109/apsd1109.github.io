@@ -44,14 +44,11 @@ I asked myself, "Would going through this book with the DG actually be helpful?"
 
 # What Scripture Is.
 
-> "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
-> (2 Timothy 3:16–17, ESV)
+> All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work. - 2 Timothy 3:16–17, ESV
 
-> "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart."
-> (Hebrews 4:12, ESV)
+> For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart. - Hebrews 4:12, ESV
 
-> "And by this we know that we have come to know him, if we keep his commandments. Whoever says "I know him" but does not keep his commandments is a liar, and the truth is not in him, but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him: whoever says he abides in him ought to walk in the same way in which he walked."
-> (1 John 2:3–6, ESV)
+> And by this we know that we have come to know him, if we keep his commandments. Whoever says "I know him" but does not keep his commandments is a liar, and the truth is not in him, but whoever keeps his word, in him truly the love of God is perfected. By this we may know that we are in him: whoever says he abides in him ought to walk in the same way in which he walked. - 1 John 2:3–6, ESV
 
 As Christians, we hold the Scriptures with the utmost regard ([sola scriptura](https://www.gotquestions.org/sola-scriptura.html)) and take it as the **true, reliable, and perfect word of God**. How we come to that conclusion is another topic; though if you do have questions regarding this, I highly recommend searching up the evidence and reasoning for making such conclusions (gotquestions.org, and popular Christian apologetic books are a great place to start), as the bible is the basis for all Christian doctrine.
 
@@ -69,13 +66,11 @@ Being convicted to focus heavily on scripture, I told all of my DG members to go
 ![](/assets/images/a-rooted-resolution-2.jpg)
 _Our powerful DG. All because of His word, and all for His glory alone. 🔥 (We made dumplings together! 😋)_
 
-> Thus says the Lord: "Let not the wise man boast in his wisdom, let not the mighty man boast in his might, let not the rich man boast in his riches, but **let him who boasts boast in this, that he understands and knows me, that I am the Lord who practices steadfast love, justice, and righteousness in the earth.** For in these things I delight, declares the Lord."
-> (Jeremiah 9:23–24, ESV)
+> Thus says the Lord: "Let not the wise man boast in his wisdom, let not the mighty man boast in his might, let not the rich man boast in his riches, but **let him who boasts boast in this, that he understands and knows me, that I am the Lord who practices steadfast love, justice, and righteousness in the earth.** For in these things I delight, declares the Lord." - Jeremiah 9:23–24, ESV
 
 # The Resolve to Reflect Psalm 1.
 
-> "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers. The wicked are not so, but are like chaff that the wind drives away. Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous; for the Lord knows the way of the righteous, but the way of the wicked will perish."
-> (Psalm 1:1–6, ESV)
+> Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the Lord, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers. The wicked are not so, but are like chaff that the wind drives away. Therefore the wicked will not stand in the judgment, nor sinners in the congregation of the righteous; for the Lord knows the way of the righteous, but the way of the wicked will perish. - Psalm 1:1–6, ESV
 
 The message of Psalm 1 is very clear, and the imagery, very vivid: that we ought not to become complacent in and apathetic to our sin and sinful nature, by settling for the ways of the wicked. Rather, we must be rooted like how a tree is — by streams of water so that it may produce fruit in its season — by meditating on God's word day and night. **By doing so, we will prosper and bring glory to God.**
 
@@ -90,8 +85,7 @@ Happy New Years 🎉🍾!
 
 The original article is already finished, but I wanted to include this portion as a way of immediately applying this resolve to remain rooted in His word. So I have one question for you: Do you seriously take Jesus' final words seriously (inspiration from [David Platt's sermon: You Need Biblical Mission](https://radical.net/podcasts/radical-podcast/you-need-biblical-mission/))?
 
-> "And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.""
-> (Matthew 28:18–20, ESV)
+> And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age." - Matthew 28:18–20, ESV
 
 As a Christian in school, do you recognize that you have the privilege and opportunity like no one else to fulfill Jesus' commandment and commission? I was reminded of the urgency to live out this during this term, by browsing around on our very own blog!
 Please, take a moment to read through [Will Schuurman's post, _3 Exhortations for Campus Ministries From a Local Church Pastor_](https://medium.com/uwccf/3-exhortations-for-campus-ministries-from-a-local-church-pastor-17f42cab0b26).
@@ -104,8 +98,7 @@ As you take time to **discern** and **pray** about **sacrificing yourself** (in 
 
 I have many thoughts and experiences on what it means to lead well, and what all the words I've bolded mean — and it may seem overwhelming and intimidating. But let me remind you of what we just focused on: sticking close to God's word and allowing Him to work!
 
-> "He must increase, but I must decrease."
-> (John 3:30, ESV)
+> He must increase, but I must decrease. - John 3:30, ESV
 
 In the DG you plan to lead (and in anything, really), make His word the utmost priority! This might be practiced slightly differently across DGs, but the principle remains the same. Make space for God's Word to work in the hearts of your DG members (recall 2 Timothy and Hebrews from above).
 

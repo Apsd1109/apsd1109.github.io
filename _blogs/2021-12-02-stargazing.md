@@ -88,25 +88,25 @@ _Prayer: Heavenly Father, you are Lord over all! All things are in your control.
 _Darkness is the symbol of despair and hopelessness. For some, Christmas time can be especially tough. While in the darkness, we fumble around very easily, can't tell what's in front of us, and frankly, it's scary!_  
 _So how do we navigate through the darkness? Where do we place our hope in? And how do we do so realistically?_
 
-> ⭐ "I am the man who has seen affliction under the rod of his wrath; he has driven and brought me into darkness without any light; surely against me he turns his hand again and again the whole day long.  
+> ⭐ I am the man who has seen affliction under the rod of his wrath; he has driven and brought me into darkness without any light; surely against me he turns his hand again and again the whole day long.  
 > He has made my flesh and my skin waste away; he has broken my bones; he has besieged and enveloped me with bitterness and tribulation; he has made me dwell in darkness like the dead of long ago.  
 > He has walled me about so that I cannot escape; he has made my chains heavy; though I call and cry for help, he shuts out my prayer; he has blocked my ways with blocks of stones; he has made my paths crooked.  
 > He is a bear lying in wait for me, a lion in hiding; he turned aside my steps and tore me to pieces; he has made me desolate; he bent his bow and set me as a target for his arrow.  
 > He drove into my kidneys the arrows of his quiver; I have become the laughingstock of all peoples, the object of their taunts all day long. He has filled me with bitterness; he has sated me with wormwood.  
-> He has made my teeth grind on gravel, and made me cower in ashes; my soul is bereft of peace; I have forgotten what happiness is; so I say, ‘My endurance has perished; so has my hope from the Lord.'  
-> Remember my affliction and my wanderings, the wormwood and the gall! My soul continually remembers it and is bowed down within me." — Lamentations 3:1–20
+> He has made my teeth grind on gravel, and made me cower in ashes; my soul is bereft of peace; I have forgotten what happiness is; so I say, "My endurance has perished; so has my hope from the Lord."  
+> Remember my affliction and my wanderings, the wormwood and the gall! My soul continually remembers it and is bowed down within me. — Lamentations 3:1–20
 
 _You are allowed to lament! Voice your concerns, the things that are tearing you down, the things that keep you up at night, voice all of these and cry out to the Lord, for he hears our prayers. But, do not wallow in despair. For we always have hope:_
 
-> ⭐ "But this I call to mind, and therefore I have hope:  
-> The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness. ‘The Lord is my portion,' says my soul, ‘therefore I will hope in him.'  
+> ⭐ But this I call to mind, and therefore I have hope:  
+> The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness. "The Lord is my portion," says my soul, "therefore I will hope in him."  
 > The Lord is good to those who wait for him, to the soul who seeks him. It is good that one should wait quietly for the salvation of the Lord. It is good for a man that he bear the yoke in his youth.  
 > Let him sit alone in silence when it is laid on him; let him put his mouth in the dust — there may yet be hope; let him give his cheek to the one who strikes, and let him be filled with insults.  
-> For the Lord will not cast off forever, but, though he cause grief, he will have compassion according to the abundance of his steadfast love; for he does not afflict from his heart or grieve the children of men." — Lamentations 3:21–33
+> For the Lord will not cast off forever, but, though he cause grief, he will have compassion according to the abundance of his steadfast love; for he does not afflict from his heart or grieve the children of men. — Lamentations 3:21–33
 
 _Even though it is dark, Jesus is the light of the world; He is our hope! And He will come to us again!_
 
-> ⭐ "The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone." — Isaiah 9:2
+> ⭐ The people who walked in darkness have seen a great light; those who dwelt in a land of deep darkness, on them has light shone. — Isaiah 9:2
 
 _As we await for Jesus' return, things can still become desperate and hopeless — we do live in a broken and fallen world after all. Consider these questions when the light dims:_
 
