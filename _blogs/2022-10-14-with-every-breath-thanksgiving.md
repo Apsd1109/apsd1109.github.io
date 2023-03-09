@@ -10,7 +10,7 @@ tags:
   - Psalms
 header:
   teaser: /assets/images/with-every-breath-thanksgiving-1.jpg
-  overlay_image: /assets/images/with-every-breath-thanksgiving-1.jpg
+  image: /assets/images/with-every-breath-thanksgiving-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Adeyemi Emmanuel Abebayo](https://unsplash.com/photos/3eSZaVlxsLw)"
 excerpt: A prayer through Psalm 150

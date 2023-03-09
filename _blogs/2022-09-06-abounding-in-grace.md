@@ -9,7 +9,7 @@ tags:
   - Internship
 header:
   teaser: /assets/images/abounding-in-grace-1.jpg
-  overlay_image: /assets/images/abounding-in-grace-1.jpg
+  image: /assets/images/abounding-in-grace-1.jpg
   overlay_filter: 0.5
   caption: Me and (some of) my team members posing awkwardly for a photo 😅 (Aug. 2022)
 excerpt: Originally, I was going to write a brief article about advice I'd give to those who are much younger in their career and are searching for...

@@ -8,7 +8,7 @@ tags:
   - Reflection
 header:
   teaser: /assets/images/cough-syrup-and-honey-1.jpg
-  overlay_image: /assets/images/cough-syrup-and-honey-1.jpg
+  image: /assets/images/cough-syrup-and-honey-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Danika Perkinson](https://unsplash.com/photos/ZhA9vZQPTeE)"
 excerpt: When I was much younger, I was told, "Just read the bible, it's good for you!..."

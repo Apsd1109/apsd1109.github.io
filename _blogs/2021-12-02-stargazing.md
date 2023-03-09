@@ -9,7 +9,7 @@ tags:
   - Christmas
 header:
   teaser: /assets/images/stargazing-1.jpg
-  overlay_image: /assets/images/stargazing-1.jpg
+  image: /assets/images/stargazing-1.jpg
   overlay_filter: 0.5
   caption: Photo by me, The Ark (McKellar, ON), 2019
 excerpt: Christmas Devotions (2/3)
