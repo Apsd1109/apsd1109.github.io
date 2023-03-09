@@ -10,7 +10,7 @@ main:
   - title: "Photography"
     url: "/photography/"
   - title: "Resume"
-    url: /
+    url: /assets/documents/resume.pdf
   # - title: "Posts"
   # url: /posts/
   # - title: "Categories"
