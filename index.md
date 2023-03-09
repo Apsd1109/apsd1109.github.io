@@ -23,7 +23,7 @@ excerpt: "Welcome to my page — a place where you can get to know more about me
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /assets/images/responses-to-the-cross-3.jpg
+  - image_path: /assets/images/a-rooted-resolution-1.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
     url: "/blog"
@@ -39,7 +39,7 @@ feature_row:
     # excerpt: "Read my recipes"
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/image.jpg
+  - image_path: /assets/images/sakura.jpg
     alt: "Photo from photography portfolio"
     title: "Photography"
     link: "/photography"
