@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/responses-to-the-cross-2.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Eberhard Grossgasteiger](https://unsplash.com/photos/CytHrRFp2wU)"
-excerpt: '"You were with that Nazarene, Jesus, weren't you?..."'
+excerpt: \"You were with that Nazarene, Jesus, weren't you?...\"
 ---
 
 "You were with that Nazarene, Jesus, weren't you?"  
