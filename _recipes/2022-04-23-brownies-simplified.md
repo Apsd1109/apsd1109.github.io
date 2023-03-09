@@ -7,7 +7,7 @@ tags:
   - Dessert
 header:
   teaser: /assets/images/brownies-simplified-1.jpg
-  overlay_image: /assets/images/brownies-simplified-1.jpg
+  image: /assets/images/brownies-simplified-1.jpg
   overlay_filter: 0.5
   caption: "My first ever batch of tahini swirl brownies!"
 excerpt: "A timeless template for brownies. Play around with it as you please!"
