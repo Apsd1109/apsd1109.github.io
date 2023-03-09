@@ -1,9 +1,10 @@
 ---
-title: "Responses to the Cross (3/3)"
+title: Responses to the Cross (3/3)
 date: 2021-04-04
 categories:
   - Blog
 tags:
+  - Christianity
   - Easter
   - Reflection
 header:
@@ -14,26 +15,26 @@ header:
 excerpt: '"Simon son of John, do you love me more than these?..."'
 ---
 
-“Simon son of John, do you love me more than these?”  
-“Yes, Lord, you know that I love you.”  
-“Feed my lambs.”
+"Simon son of John, do you love me more than these?"  
+"Yes, Lord, you know that I love you."  
+"Feed my lambs."
 
-“Simon son of John, do you love me?”  
-“Yes, Lord, you know that I love you.”  
-“Take care of my sheep.”
+"Simon son of John, do you love me?"  
+"Yes, Lord, you know that I love you."  
+"Take care of my sheep."
 
-“Simon son of John, do you love me?”  
-“Lord, you know all things; you know that I love you.”  
-“Feed my sheep.  
+"Simon son of John, do you love me?"  
+"Lord, you know all things; you know that I love you."  
+"Feed my sheep.  
 Very truly I tell you, when you were younger,  
 You dressed yourself and went where you wanted;  
 But when you are old, you will stretch out your hands,  
 And someone else will dress you and lead you where you do not want to go.  
-Follow me!”
+Follow me!"
 
-“Lord, what about him?”
+"Lord, what about him?"
 
-“If I want him to remain alive until I return, what is that to you?”
+"If I want him to remain alive until I return, what is that to you?"
 
 ---
 

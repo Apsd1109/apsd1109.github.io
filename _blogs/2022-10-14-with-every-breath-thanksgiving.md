@@ -1,9 +1,10 @@
 ---
-title: "With Every Breath (Thanksgiving 2022)"
+title: With Every Breath (Thanksgiving 2022)
 date: 2022-10-14
 categories:
   - Blog
 tags:
+  - Christianity
   - Thanksgiving
   - Prayer
   - Psalms
@@ -12,7 +13,7 @@ header:
   overlay_image: /assets/images/with-every-breath-thanksgiving-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Adeyemi Emmanuel Abebayo](https://unsplash.com/photos/3eSZaVlxsLw)"
-excerpt: "A prayer through Psalm 150"
+excerpt: A prayer through Psalm 150
 ---
 
 This is the last installment of a five-part Thanksgiving series based on Psalm 146-150, written on the [UWCCF blog](https://medium.com/uwccf). You can find the [first](https://medium.com/uwccf/trustworthy-god-thanksgiving-2022-a866ccd912c4), [second](https://medium.com/uwccf/praise-charity-providence-and-scripture-thanksgiving-2022-b105cbc1091), [third](https://medium.com/uwccf/all-you-creation-thanksgiving-2022-8c7882b2e164), and [fourth](https://medium.com/uwccf/path-of-worship-thanksgiving-2022-b0fe41dfc56e) one there!
@@ -34,9 +35,9 @@ Hallelujah! Come all and let us praise the LORD! Join me in this prayer:
 
 > God, you reside in your sanctuary, where there is no presence of sin, for it is holy and set apart; you reside in your mighty heavens, seated on the highest throne, rich in glory and honour!
 
-Take this time to reflect on God’s holiness and honour. Where is this demonstrated in the scriptures?
+Take this time to reflect on God's holiness and honour. Where is this demonstrated in the scriptures?
 
-> Lord, you have displayed your great excellences by the very works of your hands, by the mighty deeds you have done! God, I can only praise you for your power, sovereignty, and faithfulness throughout all of history, and especially for your redeeming work on the cross by way of Jesus’ life, death, and resurrection!
+> Lord, you have displayed your great excellences by the very works of your hands, by the mighty deeds you have done! God, I can only praise you for your power, sovereignty, and faithfulness throughout all of history, and especially for your redeeming work on the cross by way of Jesus' life, death, and resurrection!
 
 What are some more ways God has shown His faithfulness to His people? How did He demonstrate His power and authority over all in history and in your life?
 

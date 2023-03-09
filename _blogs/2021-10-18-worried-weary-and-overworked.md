@@ -1,9 +1,10 @@
 ---
-title: "Worried, Weary, and Overworked"
+title: Worried, Weary, and Overworked
 date: 2021-10-18
 categories:
   - Blog
 tags:
+  - Christianity
   - Thanksgiving
   - Reflection
 header:

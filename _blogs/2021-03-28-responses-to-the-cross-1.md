@@ -1,9 +1,10 @@
 ---
-title: "Responses to the Cross (1/3)"
+title: Responses to the Cross (1/3)
 date: 2021-03-28
 categories:
   - Blog
 tags:
+  - Christianity
   - Easter
   - Reflection
 header:
@@ -11,14 +12,14 @@ header:
   overlay_image: /assets/images/responses-to-the-cross-1.jpg
   overlay_filter: 0.5
   caption: "Photo by: [Avel Chuklanov](https://unsplash.com/photos/Msoo0EfMl14)"
-excerpt: "The crowds gathered in front of the city, singing to him..."
+excerpt: The crowds gathered in front of the city, singing to him...
 ---
 
 The crowds gathered in front of the city, singing to him  
-“Hosanna!  
+"Hosanna!  
 Blessed is he who comes in the name of the Lord!  
 Blessed is the coming kingdom of our father David!  
-Hosanna in the highest heaven!”
+Hosanna in the highest heaven!"
 
 But who is this man really?  
 In place of a chariot and an army,  
@@ -31,7 +32,7 @@ This man is definitely not the messiah we are looking for.
 ---
 
 How often is it that we become critical of God?  
-Thinking that if He doesn’t fit  
+Thinking that if He doesn't fit  
 The way we see things, the way we want things to be,  
 We may as well reject him?
 

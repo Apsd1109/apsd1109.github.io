@@ -1,9 +1,10 @@
 ---
-title: "Cough Syrup and Honey"
+title: Cough Syrup and Honey
 date: 2021-08-30
 categories:
   - Blog
 tags:
+  - Christianity
   - Reflection
 header:
   teaser: /assets/images/cough-syrup-and-honey-1.jpg
