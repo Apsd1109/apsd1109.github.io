@@ -20,3 +20,7 @@ I'll explain this very briefly, using the four-movement framework that Jeff Vand
 ## Redemption
 
 ## New Creation
+
+---
+
+To be continued...
