@@ -12,7 +12,7 @@ header:
 excerpt: From far away, I could catch a glimpse of what seemed to be a table...
 ---
 
-![](/assets/images/who-is-worthy-1.png)
+![](/assets/images/who-is-worthy-1.png)  
 _AI generated art, by DALL-E_
 
 From far away, I could catch a glimpse of what seemed to be a table. Out of curiosity, I began to walk towards it.  
