@@ -120,6 +120,7 @@ In joining a group, ensure that there is some form of:
 - Focus on His Word (e.g. bible study, memorizing scripture)
 - Accountability
 - Mutual ministry, and therefore your active engagement (regular attendance and participation shouldn't even be a question)
-- You'll find that by sticking close to His word, you'll grow a lot!
+
+You'll find that by sticking close to His word, you'll grow a lot!
 
 If you'd like to talk more about how this looks like specifically, please reach out to me! I would love to share the details of how my church (Trinity Bible Chapel) small group and DG ran, and covered these areas!
