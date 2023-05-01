@@ -23,7 +23,7 @@ excerpt: "Welcome to my page — a place where you can get to know more about me
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /assets/images/a-rooted-resolution-1.jpg
+  - image_path: /assets/images/when-the-clouds-roll-in-1.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
     url: "/blog"
