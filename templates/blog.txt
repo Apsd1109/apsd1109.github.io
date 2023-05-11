@@ -6,9 +6,9 @@ categories:
 tags:
   - Tag
 header:
-  teaser: /assets/images/image.jpg
+  teaser: /assets/images/a-city-called-seattle-1.jpg
 excerpt: 
 ---
 
-![](/assets/images/image.jpg)
+![](/assets/images/a-city-called-seattle-1.jpg)
 _Photo by: [Name](Link to image)_

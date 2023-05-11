@@ -8,7 +8,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/image.jpg
+  overlay_image: /assets/images/a-city-called-seattle-1.jpg
   actions:
     - label: "About"
       url: /about/
@@ -48,7 +48,7 @@ feature_row:
     btn_class: "btn--primary"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
 # feature_row2:
-#   - image_path: /assets/images/image.jpg
+#   - image_path: /assets/images/a-city-called-seattle-1.jpg
 #     alt: "placeholder image 2"
 #     title: "Placeholder Image Left Aligned"
 #     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -56,7 +56,7 @@ feature_row:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 # feature_row3:
-#   - image_path: /assets/images/image.jpg
+#   - image_path: /assets/images/a-city-called-seattle-1.jpg
 #     alt: "placeholder image 2"
 #     title: "Placeholder Image Right Aligned"
 #     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -64,7 +64,7 @@ feature_row:
 #     btn_label: "Read More"
 #     btn_class: "btn--primary"
 # feature_row4:
-#   - image_path: /assets/images/image.jpg
+#   - image_path: /assets/images/a-city-called-seattle-1.jpg
 #     alt: "placeholder image 2"
 #     title: "Placeholder Image Center Aligned"
 #     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
