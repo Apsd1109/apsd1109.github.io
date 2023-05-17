@@ -97,12 +97,12 @@ If I were to give some sort of anthem to summarize this, it would be _[My Worth 
 > Not in the strength of flesh and bone
 > But in the costly wounds of love
 > At the cross
-
+>
 > My worth is not in skill or name
 > In win or lose, in pride or shame
 > But in the blood of Christ that flowed
 > At the cross
-
+>
 > I rejoice in my redeemer
 > Greatest treasure
 > Wellspring of my soul
