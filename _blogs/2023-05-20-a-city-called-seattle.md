@@ -1,6 +1,6 @@
 ---
 title: A City Called Seattle
-date: 2023-MM-DD
+date: 2023-05-20
 categories:
   - Blog
 tags:
