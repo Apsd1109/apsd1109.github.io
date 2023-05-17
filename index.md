@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/when-the-clouds-roll-in-1.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
-    url: "/blog"
+    url: "/blogs"
     btn_label: "Read blogs"
     btn_class: "btn--primary"
     # excerpt: "Explore my latest blogs"
