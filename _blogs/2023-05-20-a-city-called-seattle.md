@@ -93,20 +93,20 @@ I could never live for myself if I wanted to participate in this watching and wa
 
 If I were to give some sort of anthem to summarize this, it would be _[My Worth is not In What I Own](https://www.youtube.com/watch?v=4XejNdh-NPQ)_. It's a song I listened to every day before coming to Seattle, and also while in Seattle. I was constantly reminded to live for eternity. It's a wonderful song, and I hope you give it a listen, in any tempting situation where you just want to live for yourself and _have_ things.
 
-> My worth is not in what I own
-> Not in the strength of flesh and bone
-> But in the costly wounds of love
+> My worth is not in what I own  
+> Not in the strength of flesh and bone  
+> But in the costly wounds of love  
 > At the cross
 >
-> My worth is not in skill or name
-> In win or lose, in pride or shame
-> But in the blood of Christ that flowed
+> My worth is not in skill or name  
+> In win or lose, in pride or shame  
+> But in the blood of Christ that flowed  
 > At the cross
 >
-> I rejoice in my redeemer
-> Greatest treasure
-> Wellspring of my soul
-> And I will trust in him, no other
+> I rejoice in my redeemer  
+> Greatest treasure  
+> Wellspring of my soul  
+> And I will trust in him, no other  
 > My soul is satisfied in him alone
 
 # Returning to Waterloo
