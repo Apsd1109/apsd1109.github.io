@@ -8,15 +8,15 @@ tags:
   - Church
 header:
   teaser: /assets/images/a-city-called-seattle-1.jpg
-excerpt:
+excerpt: How Jesus sees the church, and how that informs how we see the church.
 ---
 
 ![](/assets/images/a-city-called-seattle-1.jpg)
 _Photo by: [Name](Link to image)_
 
-In the book of Revelation, John, the author of the book, has extensive visions of being in heaven, interacting with Jesus, angels, and other heavenly beings. In chapters two and three, Jesus addresses seven churches: He commends, rebukes, exhorts them to change, and provides both consequences and promises for those who don't and do change. What Jesus says to those seven churches can tell us a lot about how we should see (and evaluate) churches. Even across the entire New Testament, we can see both positive and negative examples of what solid churches look like, and those help us decide what church to take part in and belong to, no matter where we find ourselves.
+In the book of Revelation, John, the author of the book, has extensive visions of being in heaven, interacting with Jesus, angels, and other heavenly beings. In chapters two and three, Jesus addresses seven churches: He commends, rebukes, exhorts them to change, and provides both promises and consequences for those who do and don't change. What Jesus says to those seven churches can tell us a lot about how we should see (and evaluate) churches. Even across the entire New Testament, we can see both positive and negative examples of what solid churches look like, and those help us decide what church to take part in and belong to, no matter where we find ourselves.
 
-With this blog, I'll cover a few items, all focusing on how to discern what church to join. Namely, Revelation, New Testament churches and their "one-anothers", and I'll close off with some application and resources.
+With this blog, I'll cover a few items, all focusing on how to discern what church to join. Namely, the book of Revelation, New Testament churches and their "one-anothers", and I'll close off with some application and resources.
 
 # Revelation's Seven Churches
 
@@ -30,7 +30,7 @@ The church in Ephesus was commended for working patiently, being discerning, and
 > If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness, he is puffed up with conceit and understands nothing. He has an unhealthy craving for controversy and for quarrels about words, which produce envy, dissension, slander, evil suspicions, and constant friction among people who are depraved in mind and deprived of the truth, imagining that godliness is a means of gain. (1 Timothy 6:3–5, ESV)
 > Do you not know that a little leaven leavens the whole lump? Cleanse out the old leaven that you may be a new lump, as you really are unleavened. (1 Corinthians 5:6b–7a, ESV)
 
-However, chasing doctrine solely as a mechanical act of the mind, for the purposes of knowledge in and of itself, is not good. There is no competition for which church has the most correct doctrine, for we are all human, and therefore cannot comprehend the infinite depth of God. That isn't to say, that we should give up completely on having correct doctrine! By no means! In fact, I would say that it is good to be continuously evaluating, dare I say, _reforming ourselves_, according to scripture. Correct doctrine helps us to know God more fully, and therefore, worship Him, and live in right relationship more richly.
+However, chasing doctrine solely as a mechanical act of the mind, for the purposes of knowledge in and of itself, is not good. There is no competition for which church has the most correct doctrine, for we are all human, and therefore cannot comprehend the infinite depth of God. That isn't to say, that we should give up completely on having correct doctrine! By no means! In fact, I would say that it is good to be continuously evaluating, dare I say, _reforming ourselves_, according to scripture. Correct doctrine helps us to know God more fully, and therefore, worship Him, and live in right relationship with Him more richly.
 
 What I imagine the church in Ephesus did, was chase after doctrine itself, completely missing the reason why they should keep their doctrine pure. They lost their first love: Jesus Christ Himself! It's a joy to worship God, and sound teaching helps us do that even more greatly!
 
@@ -63,13 +63,13 @@ However, they **tolerated heresy**. Nowadays, there are many "churches" that pro
 
 > I gave her time to repent, but she refuses to repent of her sexual immorality. Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works, and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works. (Revelation 2:21–23, ESV)
 
-The call to action is quite clear, to repent of sin. Being part of a church that is actively **rebelling against God** will not be good for your soul, so stay away!
+The call to action is quite clear, to repent of sin. Being part of a church that is **actively rebelling against God** will not be good for your soul, so stay away!
 
 ## Sardis: Lifeless, dead works
 
 > I know your works. You have the reputation of being alive, but you are dead. Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God. (Revelation 3:1a–2, ESV)
 
-The church in Sardis is one of two churches which Jesus only rebukes. Jesus gives a stern warning and call to action, "Wake up, and strengthen what remains". What is deceptive of churches like the one in Sardis, is that on the surface, they seem lively (read, full of activity), yet on the inside, within their congregation, they are dead (read, abounding in life). I personally am weary of churches that heavily promote running countless activities to attract people to their church, as what often happens, is that the spiritual liveliness of the congregation is sacrificed. Their reliance on themselves is exalted and their reliance on God is diminished, for they're merely interested in raising their own banner, promoting "a new <INSERT CHURCH NAME OR CITY HERE>", instead of fixing their eyes on **the New Jerusalem**. I won't ramble on anymore, since [I did that in an earlier blog](2023-04-29-when-the-clouds-roll-in.md), sharing my takeaways from a bunch of books on the topic of "ministry in the secular age", which I highly recommend you check out if you are interested in this particular topic.
+The church in Sardis is one of two churches which Jesus only rebukes. Jesus gives a stern warning and call to action, "Wake up, and strengthen what remains". What is deceptive of churches like the one in Sardis, is that on the surface, they seem lively (read, full of activity), yet on the inside, within their congregation, they are dead (read, lacking in abundance of life). I personally am weary of churches that heavily promote running countless activities to attract people to their church, as what often happens, is that the spiritual liveliness of the congregation is sacrificed. Their reliance on themselves is exalted and their reliance on God is diminished, for they're merely interested in raising their own banner, promoting "a new <INSERT CHURCH NAME OR CITY HERE>", instead of fixing their eyes on **the New Jerusalem**. I won't ramble on anymore, since [I did that in an earlier blog](2023-04-29-when-the-clouds-roll-in.md), sharing my takeaways from a bunch of books on the topic of "ministry in the secular age", which I highly recommend you check out if you are interested in this particular topic.
 
 ## Philadelphia: Keeping God's word and never denying Jesus
 
@@ -83,7 +83,7 @@ The church in Philadelphia is another church that Jesus only commends. They have
 
 > I know your works: you are neither cold nor hot. Would that you were either cold or hot! So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked. I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see. (Revelation 3:15–18, ESV)
 
-The church in Laodicea is the final church that Jesus mentions. This church is the other church that Jesus only rebukes. And the rebuke is very heavy. They are identified as useless (being neither hot, nor cold), full of pride (not relying on God), and blind (not realizing their wretchedness, nakedness). Churches that are useless for the ministry of the gospel are disowned by Jesus (for He will spit them out), which is a very terrible thing (see [Matthew 25:31-46](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46&version=ESV)).
+The church in Laodicea is the final church that Jesus mentions. This church is the other church that Jesus only rebukes. And the rebuke is very heavy. They are identified as useless (being neither hot, nor cold), full of pride (not relying on God), and blind (not realizing their wretchedness, nakedness). Churches that are useless for the ministry of the gospel are disowned by Jesus (for He will spit them out), which is a very terrible thing (see [Matthew 25:31-46](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46&version=ESV)). Make sure that you and the church you attend aren't described like the church in Laodicea!
 
 # New Testament Churches
 
@@ -112,7 +112,7 @@ And so we must balance the two: the church is very important, and at the same ti
 
 Before continuing on, I want to clarify by saying that the phrase, "a church" refers to a **local** church. That is, a particular group of Christians, gathered in a particular place, in a particular time. It's a specific group of people in a specific locality. On the other hand, "the church" refers to the **universal** church. That is, all of God's people around the world.
 
-Now you might refute the idea of belonging to a church, on the basis of it not being perfect, or believing that you already in "the universal church", and therefore conclude that you don't need to belong to a church. Such a view is erroneous.
+Now you might refute the idea of belonging to a church, on the basis of it not being perfect, believing that you already in "the universal church", or believing that you can "be the church online", and therefore conclude that you don't need to belong to a church. Such a view is erroneous.
 
 It's quite simple really. In the NT, we see lots of commands to Christians in a **local** church context. In other words, by not belonging to a local church, you are not fulfilling God's commands, and therefore you are disobedient! Yes, all Christians belong to God's **universal** church. Beautiful as it is, it is meant to be expressed in the **locality** of the gathered saints. Otherwise, the "universal" church ends up being a static people, never fulfilling what God has commanded His people (the exact opposite of the beauty of the universal church).
 
@@ -131,7 +131,7 @@ For example, from just two verses in Colossians 3, we get the following:
 - Teach one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
 - Admonish one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
 
-Depending on the list you refer to, there are at least 20 "one another"s, going up to roughly 30, with at least 50 references to different passages. There's a lot.
+Depending on the list you refer to, there are somewhere between 20 to 30 "one another"s, with at least 50 references to different passages. There's a lot.
 
 Now I highlight one important thing: the people you do the "one another"s with. Notice throughout the scriptures that **there is no qualifier** for the people that you do the "one another"s with, apart from them being a fellow Christian. In other words, **your personal preference for people doesn't matter**. It's not about whether or not you're drawn to particular people, share more hobbies with them, or are more comfortable around them. In fact, when the "one another"s are lived out in spite of differences between church members, the church becomes all the more beautiful, and her testament to God's goodness is even greater!
 
@@ -145,9 +145,9 @@ I like to break this down to two things: preaching and community.
 
 The first aspect I'd like to consider is the preaching. Is the preaching theologically sound? Has the church kept false teaching from reaching the pulpit? If there is no solid, grounded preaching, then the church believes a different gospel, a different Jesus, and therefore, there is no point in gathering. I've gone on a fair bit already, but I'll briefly mention that Allen Parr on YouTube made a wonderful video where he talks about the differences between **heresy, error, and disagreement**, and how that is addressed in controversial doctrines (e.g., Calvinism vs. Arminianism). I highly recommend checking it out: [7 Controversial Doctrines Christians Need to Stop Arguing About Now!](https://www.youtube.com/watch?v=ATQagxttAnY)
 
-Great preaching is meant to move both our hearts and minds. It brings us to a greater, multi-faceted understanding of God, and knowledge of our own sin. It should bring us to a deep conviction of our sin, a terror and reverence of God, and deeper affection for God because of His mercy and love! The role of the preacher is to, as [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3%3A8&version=ESV) says, preach the unsearchable riches of Christ.
+Great preaching is meant to move both our hearts and minds. It should bring us to a greater, multi-faceted understanding of God, and knowledge of our own sin. It should bring us to a deep conviction of our sin, a terror and reverence of God, and deeper affection for God because of His mercy and love! The **role of the preacher** is to, as [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3%3A8&version=ESV) says, **preach the unsearchable riches of Christ**.
 
-Personally speaking, I like to look for expositional preaching, as I find that it is often quite rich than other styles. That isn't to say that topical preaching is bad. If done well, topical preaching is just as good and also necessary! Expositional preaching in particular highlights the richness of scripture itself, which is a wonderful treat in itself. You're allowed to have preferences on preaching styles! My preferences have changed over the years of following Jesus. I don't absolutely hate what I listened to before, as I believe it has some level of merit (and of course, preaches the core message of the gospel), and I'm glad for it. Looking back, I'm also just as glad I've matured and learned to appreciate richer preaching. The point is, you're allowed to have preference in preaching styles, so long as the preaching is grounded in scripture (though I myself would definitely do a double-take if there is a pattern of topical preaching that is purely seeker-friendly in style).
+Personally speaking, I like to look for expositional preaching, as I find that it is often quite rich than other styles. That isn't to say that topical preaching is bad. If done well, topical preaching is just as good and also necessary! Expositional preaching in particular highlights the richness of scripture itself, which is a wonderful treat in itself. But, you're allowed to have preferences on preaching styles! My preferences have changed over the years of following Jesus. I don't absolutely hate what I listened to before, as I believe it has some level of merit (and of course, preaches the core message of the gospel), and I'm glad for it. Looking back, I'm also just as glad I've matured and learned to appreciate richer preaching. The point is, **you're allowed to have preference in preaching styles, so long as the preaching is grounded in scripture** (though I myself would definitely do a double-take if there is a pattern of topical preaching that is purely seeker-friendly in style).
 
 ## Community
 
@@ -157,7 +157,7 @@ The second aspect I'd consider is the community. Is the community actively livin
 
 I think these first two things are a great starting point for evaluating a church. But, I highly recommend that you take a look at this list of [15 questions to ask when searching for a church](https://docs.google.com/document/d/1F3OcTqZMbZgNbRTZGjJarCWLY4j9N5NpQSqK_YbLEgc/edit?usp=drive_link) (courtesy of Downtown Cornerstone Church).
 
-I will say in addition to this list, that you should take your time to get to know the church! Finding a church isn't the easiest, as it takes time to understand what goes on in a church. You won't know enough about the church on the first week you visit, so take your time! Set aside perhaps one or two months to really get to know what goes on (and don't take too long as well, as that drags you down). Perhaps research the church ahead of time by listening to their sermons (oh, the wonders of modern technology!), or see what groups meet outside of Sunday!
+I will say in addition to this list, that you should take your time to get to know the church! Finding a church isn't the easiest, as it takes time to understand what goes on in a church. You won't know enough about the church on the first week you visit, so take your time! Set aside perhaps one or two months to really get to know what goes on (and don't take too long as well, as that drags you down). Perhaps research the church ahead of time by listening to their sermons (oh, the wonders of modern technology!), or see what groups meet outside of Sunday.
 
 ## New City, New Church, New Home
 
