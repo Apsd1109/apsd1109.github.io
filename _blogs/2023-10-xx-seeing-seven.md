@@ -16,7 +16,7 @@ _Photo by: [Name](Link to image)_
 
 In the book of Revelation, John, the author of the book, has extensive visions of being in heaven, interacting with Jesus, angels, and other heavenly beings. In chapters two and three, Jesus addresses seven churches: He commends, rebukes, exhorts them to change, and provides both consequences and promises for those who don't and do change. What Jesus says to those seven churches can tell us a lot about how we should see (and evaluate) churches. Even across the entire New Testament, we can see both positive and negative examples of what solid churches look like, and those help us decide what church to take part in and belong to, no matter where we find ourselves.
 
-With this blog, I'll cover a few items, all focusing on how to discern what church to join. Namely, Revelation, NT churches and their "one-anothers", and I'll close off with some more resources.
+With this blog, I'll cover a few items, all focusing on how to discern what church to join. Namely, Revelation, New Testament churches and their "one-anothers", and I'll close off with some application and resources.
 
 # Revelation's Seven Churches
 
@@ -79,8 +79,69 @@ The church in Philadelphia is another church that Jesus only commends. They have
 
 > I am coming soon. Hold fast what you have, so that no one may seize your crown. The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name. (Revelation 3:11–12, ESV)
 
-## Laodicea: Lukewarm, Wretched
+## Laodicea: Lukewarm, wretched
 
 > I know your works: you are neither cold nor hot. Would that you were either cold or hot! So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. For you say, I am rich, I have prospered, and I need nothing, not realizing that you are wretched, pitiable, poor, blind, and naked. I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see. (Revelation 3:15–18, ESV)
 
 The church in Laodicea is the final church that Jesus mentions. This church is the other church that Jesus only rebukes. And the rebuke is very heavy. They are identified as useless (being neither hot, nor cold), full of pride (not relying on God), and blind (not realizing their wretchedness, nakedness). Churches that are useless for the ministry of the gospel are disowned by Jesus (for He will spit them out), which is a very terrible thing (see [Matthew 25:31-46](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46&version=ESV)).
+
+# New Testament Churches
+
+The NT is **filled** with positive and negative examples of what the church **should** look like. Before I dive into that, I think it's very important to first recognize the importance of the church, and tackle the ever-elusive idea of "a perfect church".
+
+## The Importance of the Church
+
+We first must recognize that the church is part of God's plan of redemption for the world. It's by the joint effort of the Holy Spirit and man, that the world comes to know the truth about Christ, repent of their sins, put their trust in Jesus, and be saved! There are many calls to Christians to be faithful, so that the world would benefit!
+
+> But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light. Once you were not a people, but now you are God’s people; once you had not received mercy, but now you have received mercy. Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, **they may see your good deeds and glorify God on the day of visitation**. (1 Peter 2:9–12, ESV)
+> And you became imitators of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit, so that **you became an example to all the believers in Macedonia and in Achaia. For not only has the word of the Lord sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth everywhere**, so that we need not say anything. For they themselves report concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God, and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come. (1 Thessalonians 1:6–10, ESV)
+
+Even Christ Himself **died** for the church! Jesus, the groom, died for His bride!! This is serious stuff. So, we must have a high view of the church.
+
+> as Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, so that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish. (Ephesians 5:25b–27, ESV)
+
+## Perfect Church?
+
+Yet, we must remember that the church, as a particular gathered group of imperfect Christians, cannot be perfect! There is no such thing as a perfect church on earth. Charles Spurgeon himself says:
+
+> If I had never joined a church till I had found one that was perfect, I should never have joined one at all. And the moment I did join it, if I had found one, I should have spoiled it, for it would not have been a perfect church after I had become a member of it. Still, imperfect as it is, it is the dearest place on earth to us. - Charles Spurgeon
+
+And so we must balance the two: the church is very important, and at the same time, not perfect! But we must still belong to a church.
+
+## Aside: "The" vs. "A" Church
+
+Before continuing on, I want to clarify by saying that the phrase, "a church" refers to a **local** church. That is, a particular group of Christians, gathered in a particular place, in a particular time. It's a specific group of people in a specific locality. On the other hand, "the church" refers to the **universal** church. That is, all of God's people around the world.
+
+Now you might refute the idea of belonging to a church, on the basis of it not being perfect, or believing that you already in "the universal church", and therefore conclude that you don't need to belong to a church. Such a view is erroneous.
+
+It's quite simple really. In the NT, we see lots of commands to Christians in a **local** church context. In other words, by not belonging to a local church, you are not fulfilling God's commands, and therefore you are disobedient! Yes, all Christians belong to God's **universal** church. Beautiful as it is, it is meant to be expressed in the **locality** of the gathered saints. Otherwise, the "universal" church ends up being a static people, never fulfilling what God has commanded His people (the exact opposite of the beauty of the universal church).
+
+In fact, of the 109 times the word, "church" is used in the NT, 93 of those are clear references to a **local** church! This shows the importance of belonging to a local church.
+
+Now, what **are** those commands I refer to? The "one another"s of course!
+
+## "One Another"s of a Church
+
+The "one another"s in the NT are simply, what you would do with _one another_ in a local church setting. There are a lot, and I don't intend to list them all here (you can easily look them up), but the point I want to drive home in this section is that a church isn't just "something you attend on Sundays", but rather, are a specific group of people that you carry out the "one another"s with.
+
+For example, from just two verses in Colossians 3, we get the following:
+
+- Bear with one another ([Col. 3:13](https://www.biblegateway.com/passage/?search=Colossians+3%3A13&version=ESV))
+- Forgive each other ([Col. 3:13](https://www.biblegateway.com/passage/?search=Colossians+3%3A13&version=ESV))
+- Teach one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
+- Admonish one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
+
+Depending on the list you refer to, there are at least 20 "one another"s, going up to roughly 30, with at least 50 references to different passages. There's a lot.
+
+Now I highlight one important thing: the people you do the "one another"s with. Notice throughout the scriptures that **there is no qualifier** for the people that you do the "one another"s with, apart from them being a fellow Christian. In other words, **your personal preference for people doesn't matter**. It's not about whether or not you're drawn to particular people, share more hobbies with them, or are more comfortable around them. In fact, when the "one another"s are lived out in spite of differences between church members, the church becomes all the more beautiful, and her testament to God's goodness is even greater!
+
+# Application: Seeking out a church
+
+https://media.downtowncornerstone.org/foundations_class/Foundations_Handout_Wk2_Why_Belong.pdf
+https://media.downtowncornerstone.org/foundations_class/why_belong.mp3
+
+https://docs.google.com/document/d/1F3OcTqZMbZgNbRTZGjJarCWLY4j9N5NpQSqK_YbLEgc/edit?usp=drive_link
+
+https://www.downtowncornerstone.org/the-church-series
+
+# Resources
