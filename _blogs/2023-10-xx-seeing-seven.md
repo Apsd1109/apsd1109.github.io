@@ -135,13 +135,48 @@ Depending on the list you refer to, there are at least 20 "one another"s, going 
 
 Now I highlight one important thing: the people you do the "one another"s with. Notice throughout the scriptures that **there is no qualifier** for the people that you do the "one another"s with, apart from them being a fellow Christian. In other words, **your personal preference for people doesn't matter**. It's not about whether or not you're drawn to particular people, share more hobbies with them, or are more comfortable around them. In fact, when the "one another"s are lived out in spite of differences between church members, the church becomes all the more beautiful, and her testament to God's goodness is even greater!
 
-# Application: Seeking out a church
+# Application & Resources
 
-https://media.downtowncornerstone.org/foundations_class/Foundations_Handout_Wk2_Why_Belong.pdf
-https://media.downtowncornerstone.org/foundations_class/why_belong.mp3
+As we saw from scripture, solid churches look like ones that are grounded in doctrine (and working towards refining it to be more and more pure), growing in love for Jesus and for one another, and have clung to Christ in the midst of persecution/tribulation. Solid churches are ones that are actively living out the "one another"s of scripture.
 
-https://docs.google.com/document/d/1F3OcTqZMbZgNbRTZGjJarCWLY4j9N5NpQSqK_YbLEgc/edit?usp=drive_link
+I like to break this down to two things: preaching and community.
 
-https://www.downtowncornerstone.org/the-church-series
+## Preaching
 
-# Resources
+The first aspect I'd like to consider is the preaching. Is the preaching theologically sound? Has the church kept false teaching from reaching the pulpit? If there is no solid, grounded preaching, then the church believes a different gospel, a different Jesus, and therefore, there is no point in gathering. I've gone on a fair bit already, but I'll briefly mention that Allen Parr on YouTube made a wonderful video where he talks about the differences between **heresy, error, and disagreement**, and how that is addressed in controversial doctrines (e.g., Calvinism vs. Arminianism). I highly recommend checking it out: [7 Controversial Doctrines Christians Need to Stop Arguing About Now!](https://www.youtube.com/watch?v=ATQagxttAnY)
+
+Great preaching is meant to move both our hearts and minds. It brings us to a greater, multi-faceted understanding of God, and knowledge of our own sin. It should bring us to a deep conviction of our sin, a terror and reverence of God, and deeper affection for God because of His mercy and love! The role of the preacher is to, as [Ephesians 3:8](https://www.biblegateway.com/passage/?search=Ephesians+3%3A8&version=ESV) says, preach the unsearchable riches of Christ.
+
+Personally speaking, I like to look for expositional preaching, as I find that it is often quite rich than other styles. That isn't to say that topical preaching is bad. If done well, topical preaching is just as good and also necessary! Expositional preaching in particular highlights the richness of scripture itself, which is a wonderful treat in itself. You're allowed to have preferences on preaching styles! My preferences have changed over the years of following Jesus. I don't absolutely hate what I listened to before, as I believe it has some level of merit (and of course, preaches the core message of the gospel), and I'm glad for it. Looking back, I'm also just as glad I've matured and learned to appreciate richer preaching. The point is, you're allowed to have preference in preaching styles, so long as the preaching is grounded in scripture (though I myself would definitely do a double-take if there is a pattern of topical preaching that is purely seeker-friendly in style).
+
+## Community
+
+The second aspect I'd consider is the community. Is the community actively living out the "one anothers"? Do they gather together outside of just Sundays to do so? Are there opportunities for you to serve? The community should be drawn towards applying the implications of what they hear on Sunday, to every other day of their lives.
+
+## 15 Questions to Ask
+
+I think these first two things are a great starting point for evaluating a church. But, I highly recommend that you take a look at this list of [15 questions to ask when searching for a church](https://docs.google.com/document/d/1F3OcTqZMbZgNbRTZGjJarCWLY4j9N5NpQSqK_YbLEgc/edit?usp=drive_link) (courtesy of Downtown Cornerstone Church).
+
+I will say in addition to this list, that you should take your time to get to know the church! Finding a church isn't the easiest, as it takes time to understand what goes on in a church. You won't know enough about the church on the first week you visit, so take your time! Set aside perhaps one or two months to really get to know what goes on (and don't take too long as well, as that drags you down). Perhaps research the church ahead of time by listening to their sermons (oh, the wonders of modern technology!), or see what groups meet outside of Sunday!
+
+## New City, New Church, New Home
+
+Often, you're looking for a church because you just moved. Whether that's because of work, school, or other things, it's important to plug in!
+
+While I was abroad in Seattle, I found it so joyful to be connected to a solid church so quickly! While I was there, DCC (the church I attended) was going through a [topical series on the church](https://www.downtowncornerstone.org/the-church-series). I found it to be so helpful in my understanding of the church, and I highly recommend you give it a listen!
+
+I also [wrote a blog about my time in Seattle](2023-05-20-a-city-called-seattle.md) a while back, if you'd like to hear the more personal side of my story.
+
+## On Membership: Making it official
+
+The topic of membership and its importance was something I learned about while at DCC. Some may roll their eyes at the idea of an "official membership" (I did as well), but it's really what we see in scripture! People not only "attend" a church, but they **belong** (read, make a covenant with the other members of the church, to carry out their commitments (e.g., "one another"s) faithfully) to a church.
+
+I have started to take membership seriously (and am in the process of becoming a member as this is being written). If you'd like to ask more questions about my thought processes (this article is already so long...), please reach out, and I'd be happy to share!
+
+The following resources are very helpful for understanding church membership. I'd take a look!
+
+- DCC's class on church membership
+  - [Notes](https://media.downtowncornerstone.org/foundations_class/Foundations_Handout_Wk2_Why_Belong.pdf)
+  - [Audio](https://media.downtowncornerstone.org/foundations_class/why_belong.mp3)
+- [DCC's sermon on church membership](https://www.downtowncornerstone.org/2023/02/what-is-church-membership-discipline/)
+- [DCC's sermon on healthy membership](https://www.downtowncornerstone.org/2023/02/what-are-the-marks-of-a-healthy-member/)
