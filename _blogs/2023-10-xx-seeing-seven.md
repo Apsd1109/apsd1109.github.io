@@ -45,7 +45,7 @@ The church in Smyrna is one of the two churches that Jesus only commends in the 
 > For God, who said, "Let light shine out of darkness," has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ. But we have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us. We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed; always carrying in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies. For we who live are always being given over to death for Jesus’ sake, so that the life of Jesus also may be manifested in our mortal flesh. (2 Corinthians 4:6–11, ESV)
 > But he said to me, "My grace is sufficient for you, for my power is made perfect in weakness. Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me. (2 Corinthians 12:9, ESV)
 
-A church filled with joyful people is a beauty, but a church filled with broken, yet clinging to Christ is an even greater beauty! God's people aren't uniform in experiences and personalities. Instead, what makes the church amazing is that despite being irregular, broken, and discoloured scraps, we're put together like a mosaic. When you zoom out, you'll see the unifying beauty of God's grace and wisdom! This glorifies God!
+A church filled with joyful people is a beauty, but a church filled with people who are broken, yet clinging to Christ is an even greater beauty! God's people aren't uniform in experiences and personalities. Instead, what makes the church amazing is that despite being irregular, broken, and discoloured scraps, we're put together like a mosaic. When you zoom out, you'll see the unifying beauty of God's grace and wisdom! This glorifies God!
 
 > and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. (Ephesians 3:9–10, ESV)
 
@@ -65,13 +65,13 @@ However, they **tolerated heresy**. Nowadays, there are many "churches" that pro
 
 > I gave her time to repent, but she refuses to repent of her sexual immorality. Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works, and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works. (Revelation 2:21–23, ESV)
 
-The call to action is quite clear, to repent of sin. Being part of a church that is **actively rebelling against God** will not be good for your soul, so stay away!
+The call to action is quite clear: repent of your sin. Being part of a church that is **actively rebelling against God** will not be good for your soul, so stay away!
 
 ## Sardis: Lifeless, dead works
 
 > I know your works. You have the reputation of being alive, but you are dead. Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God. (Revelation 3:1a–2, ESV)
 
-The church in Sardis is one of two churches which Jesus only rebukes. Jesus gives a stern warning and call to action, "Wake up, and strengthen what remains". What is deceptive about churches like the one in Sardis, is that on the surface, they seem lively (read, full of activity), yet on the inside, within their congregation, they are dead (read, lacking in abundance of life). I personally am weary of churches that heavily promote running countless activities to attract people to their church, as what often happens is that the spiritual liveliness of the congregation is sacrificed. Their reliance on themselves is exalted and their reliance on God is diminished, for they're merely interested in raising their own banner, promoting "a new \<INSERT CHURCH NAME OR CITY HERE\>", instead of fixing their eyes on **the New Jerusalem**. I won't ramble on anymore, since [I did that in an earlier blog](2023-04-29-when-the-clouds-roll-in.md), sharing my takeaways from a bunch of books on the topic of "ministry in the secular age", which I highly recommend you check out if you are interested in this particular topic.
+The church in Sardis is one of two churches which Jesus only rebukes. Jesus gives a stern warning and call to action: "Wake up, and strengthen what remains". What is deceptive about churches like the one in Sardis, is that on the surface, they seem lively (read, full of activity), yet on the inside, within their congregation, they are dead (read, lacking in abundance of life). I personally am weary of churches that heavily promote running countless activities to attract people to their church, as what often happens is that the spiritual liveliness of the congregation is sacrificed. Their reliance on themselves is exalted and their reliance on God is diminished, for they're merely interested in raising their own banner, promoting "a new \<INSERT CHURCH NAME OR CITY HERE\>", instead of fixing their eyes on **the New Jerusalem**. I won't ramble on anymore, since [I did that in an earlier blog](2023-04-29-when-the-clouds-roll-in.md), where I shared my takeaways from a bunch of books on the topic of "ministry in the secular age", which I highly recommend you check out if you are interested in this particular topic.
 
 ## Philadelphia: Keeping God's word and never denying Jesus
 
@@ -120,11 +120,11 @@ It's quite simple really. In the NT, we see lots of commands to Christians in a 
 
 In fact, of the 109 times the word, "church" is used in the NT, 93 of those are clear references to a **local** church! This shows the importance of belonging to a local church.
 
-Now, what **are** those commands I refer to? The "one another"s of course!
+Now, what **are** those commands I refer to? The "one anothers" of course!
 
-## "One Another"s of a Church
+## "One Anothers" of a Church
 
-The "one another"s in the NT are simply, what you would do with _one another_ in a local church setting. There are a lot, and I don't intend to list them all here (you can easily look them up), but the point I want to drive home in this section is that a church isn't just "something you attend on Sundays", but rather, are a specific group of people that you carry out the "one another"s with.
+The "one anothers" in the NT are simply, what you would do with _one another_ in a local church setting. There are a lot, and I don't intend to list them all here (you can easily look them up), but the point I want to drive home in this section is that a church isn't just "something you attend on Sundays", but rather, are a specific group of people that you carry out the _one anothers_ with.
 
 For example, from just two verses in Colossians 3, we get the following:
 
@@ -133,13 +133,13 @@ For example, from just two verses in Colossians 3, we get the following:
 - Teach one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
 - Admonish one another ([Col. 3:16](https://www.biblegateway.com/passage/?search=Colossians+3%3A16&version=ESV))
 
-Depending on the list you refer to, there are somewhere between 20 to 30 "one another"s, with at least 50 references to different passages. There's a lot.
+Depending on the list you refer to, there are somewhere between 20 to 30 _one anothers_, with at least 50 references to different passages. There's a lot.
 
-Now I highlight one important thing: the people you do the "one another"s with. Notice throughout the Scriptures that **there is no qualifier** for the people that you do the "one another"s with, apart from them being a fellow Christian. In other words, **your personal preference for people doesn't matter**. It's not about whether or not you're drawn to particular people, share more hobbies with them, or are more comfortable around them. In fact, when the "one another"s are lived out in spite of differences between church members, the church becomes all the more beautiful, and her testament to God's goodness is even greater!
+Now I highlight one important thing: the people you do the _one anothers_ with. Notice throughout the Scriptures that **there is no qualifier** for the people that you do the _one anothers_ with, apart from them being a fellow Christian. In other words, **your personal preference for people doesn't matter**. It's not about whether or not you're drawn to particular people, share more hobbies with them, or are more comfortable around them. In fact, when the _one anothers_ are lived out in spite of differences between church members, the church becomes all the more beautiful, and her testament to God's goodness is even greater!
 
 # Application & Resources
 
-As we saw from Scripture, solid churches look like ones that are grounded in doctrine (and working towards refining it to be more and more pure), growing in love for Jesus and for one another, and have clung to Christ in the midst of persecution/tribulation. Solid churches are ones that are actively living out the "one another"s of scripture.
+As we saw from Scripture, solid churches look like ones that are grounded in doctrine (and working towards refining it to be more and more pure), growing in love for Jesus and for one another, and have clung to Christ in the midst of persecution/tribulation. Solid churches are ones that are actively living out the _one anothers_ of scripture.
 
 I like to break this down into two things: preaching and community.
 
@@ -153,7 +153,7 @@ Personally speaking, I like to look for expositional preaching, as I find that i
 
 ## Community
 
-The second aspect I'd consider is the community. Is the community actively living out the "one anothers"? Do they gather together outside of just Sundays to do so? Are there opportunities for you to serve? The community should be drawn towards applying the implications of what they hear on Sunday, to every other day of their lives.
+The second aspect I'd consider is the community. Is the community actively living out the _one anothers_? Do they gather together outside of just Sundays to do so? Are there opportunities for you to serve? The community should be drawn towards applying the implications of what they hear on Sunday, to every other day of their lives.
 
 ## 15 Questions to Ask
 
@@ -171,7 +171,7 @@ I also [wrote a blog about my time in Seattle](2023-05-20-a-city-called-seattle.
 
 ## On Membership: Making it official
 
-The topic of membership and its importance was something I learned about while at DCC. Some may roll their eyes at the idea of an "official membership" (I did as well), but it's really what we see in Scripture! People not only "attend" a church, but they **belong** (read, make a covenant with the other members of the church, to carry out their commitments (e.g., "one another"s) faithfully) to a church.
+The topic of membership and its importance was something I learned about while at DCC. Some may roll their eyes at the idea of an "official membership" (I did as well), but it's really what we see in Scripture! People not only "attend" a church, but they **belong** (read, make a covenant with the other members of the church, to carry out their commitments (e.g., _one anothers_) faithfully) to a church.
 
 I have started to take membership seriously (and am in the process of becoming a member as this is being written). If you'd like to ask more questions about my thought processes (this article is already so long...), please reach out, and I'd be happy to share!
 
