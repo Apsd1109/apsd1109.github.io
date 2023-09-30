@@ -98,6 +98,7 @@ defaults:
       toc_label: "On this page"
       toc_icon: "file-alt"
       toc_sticky: true
+      words_per_minute: 250
 
   # _recipes
   - scope:
@@ -114,6 +115,7 @@ defaults:
       toc_label: "On this page"
       toc_icon: "file-alt"
       toc_sticky: true
+      words_per_minute: 250
 
   # _pages
   - scope:
