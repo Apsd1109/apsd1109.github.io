@@ -1,6 +1,6 @@
 ---
 title: Seeing Seven
-date: YYYY-MM-DD
+date: 2023-09-30
 categories:
   - Blog
 tags:
