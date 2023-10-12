@@ -16,9 +16,9 @@ excerpt: 3 major takeaways from the book, The Mortification of Sin
 ![](/assets/images/you-need-this-book-1.jpg)
 _Photo by: [Birmingham Museums Trust](https://unsplash.com/photos/5EUh-tq31eA)_
 
-I recently finished [John Owen's _The Mortification of Sin_](https://banneroftruth.org/us/store/christian-living/the-mortification-of-sin/) and I found it to be a wonderful and a much needed read. Instead of spoiling the entire book, I'll share a few major takeaways I had. Though of course, I urge you to get a copy of this book for yourself. It's a short enough read, decently easy to understand, inexpensive, and above all, very rich in its content!
+I recently finished [John Owen's _The Mortification of Sin_](https://banneroftruth.org/us/store/christian-living/the-mortification-of-sin/) and I found it to be a wonderful and a much-needed read. Instead of spoiling the entire book, I'll share a few major takeaways I had. Though of course, I urge you to get a copy of this book for yourself. It's a short enough read, decently easy to understand, inexpensive, and above all, very rich in its content!
 
-Before I jump in, I first want to point you to [Kelly Kapic's article from Desiring God on this book](https://www.desiringgod.org/articles/on-the-mortification-of-sin). This was a very good resource to understand the ultimate goal Owen had in mind when writing this classical work. In a nutshell, it's not about mortification of sin **in of itself**, rather, the overarching theme is **communion with God**. Even Owen points this out himself in the first few pages of his book.
+Before I jump in, I first want to point you to [Kelly Kapic's article from Desiring God on this book](https://www.desiringgod.org/articles/on-the-mortification-of-sin). This was a very good resource to understand the ultimate goal Owen had in mind when writing this classical work. In a nutshell, it's not about mortification of sin **in and of itself**, rather, the overarching theme is **communion with God**. Even Owen points this out himself in the first few pages of his book.
 
 The mortification of your sin will bring you into a deeper and sweeter fellowship with the holy, triune and living God.
 
@@ -26,7 +26,7 @@ The mortification of your sin will bring you into a deeper and sweeter fellowshi
 
 ## An Everyday Thing
 
-Takeaway one: The mortification of sin is meant to be done everyday.
+Takeaway one: The mortification of sin is meant to be done every day.
 
 Even on days that don't seem like it, even if you live in the quiet countryside, if your country is at war, you are at war. And so if you are at war, you'll take the necessary precautions. Everyday.
 
@@ -48,7 +48,7 @@ If given a foothold, your sin will do all it can do to destroy you! It will neve
 
 Takeaway three: The mortification of sin is done with the help and power of the Holy Spirit.
 
-Too often we Christians look to ourselves to kill our sin. Out of strong convictions, we're (rightfully) convinced that we need to take action to get a handle on our sin. And so we fast, we pray, we setup accountability groups, we distract ourselves with more productive things. And don't get me wrong, these are very helpful things to kill our sin and re-sensitize our appetite for righteousness and disgust for sin. But done apart from God's power, whether you lasted was a few days, weeks, months, or even years, you end up right where you started.
+Too often we Christians look to ourselves to kill our sin. Out of strong convictions, we're (rightfully) convinced that we need to take action to get a handle on our sin. And so we fast, we pray, we set up accountability groups, we distract ourselves with more productive things. Don't get me wrong, these are very helpful things to kill our sin and re-sensitize our appetite for righteousness and disgust for sin. But done apart from God's power, whether you lasted a few days, weeks, months, or even years, you end up right where you started.
 
 Paul's letter to the Romans puts it this way:
 
