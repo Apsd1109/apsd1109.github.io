@@ -7,6 +7,8 @@ tags:
   - Christianity
   - Ministry
   - Prayer
+  - Books
+  - Book Recommendations
 header:
   teaser: /assets/images/when-the-clouds-roll-in-1.jpg
 excerpt: "Ministry in the secular age: how God ministers to us, and how He invites us to minister to others"
