@@ -12,7 +12,7 @@ excerpt: A list of ALL the food YouTube channels I'm subscribed to.
 ---
 
 ![](/assets/images/food-youtube-recommendations-1.jpg)
-_A screenshot of some YouTube channels I'm subscribed to 😄_
+_A screenshot of some YouTube channels I'm subscribed to_ 😄
 
 For those of you who know me, you know that I love to cook, and that I learned through watching **a lot** of YouTube videos. I find myself sharing the channels I watch quite frequently, especially with those who are trying to pick up cooking. So I figured, I might as well share all the YouTube channels I'm subscribed to in one blog post — it makes both my life and your life easier!
 
