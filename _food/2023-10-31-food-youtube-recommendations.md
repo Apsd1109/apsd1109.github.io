@@ -2,13 +2,13 @@
 title: Food YouTube Recommendations
 date: 2023-10-14
 categories:
-  - Recipes
+  - Food
 tags:
   - Video Resources
-  - Recommendations
+  - Food Recommendations
 header:
   teaser: /assets/images/food-youtube-recommendations-1.jpg
-excerpt: A List of ALL the Food YouTube Channels I'm Subscribed to.
+excerpt: A list of ALL the food YouTube channels I'm subscribed to.
 ---
 
 ![](/assets/images/food-youtube-recommendations-1.jpg)

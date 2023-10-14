@@ -100,10 +100,10 @@ defaults:
       toc_sticky: true
       words_per_minute: 250
 
-  # _recipes
+  # _food
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_food"
+      type: food
     values:
       layout: single
       author_profile: true
@@ -129,7 +129,7 @@ collections:
   blogs:
     output: true
     permalink: /:collection/:title/
-  recipes:
+  food:
     output: true
     permalink: /:collection/:title/
 

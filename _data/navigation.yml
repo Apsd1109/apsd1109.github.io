@@ -5,8 +5,8 @@ main:
     url: /career/
   - title: "Blog"
     url: /blogs/
-  - title: "Recipes"
-    url: /recipes/
+  - title: "Food"
+    url: /food/
   - title: "Photography"
     url: "/photography/"
   - title: "Resume"

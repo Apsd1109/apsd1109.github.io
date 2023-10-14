@@ -1,13 +1,13 @@
 ---
-title: "Brownies, Simplified!"
+title: Brownies, Simplified!
 date: 2022-04-23
 categories:
-  - Recipes
+  - Food
 tags:
   - Dessert
 header:
   teaser: /assets/images/brownies-simplified-1.jpg
-excerpt: "A timeless template for brownies. Play around with it as you please!"
+excerpt: A timeless template for brownies.
 ---
 
 ![](/assets/images/brownies-simplified-1.jpg)

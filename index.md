@@ -32,9 +32,9 @@ feature_row:
     # excerpt: "Explore my latest blogs"
   - image_path: /assets/images/brownies-simplified-1.jpg
     alt: "Photo from latest recipe"
-    title: "Recipes"
-    url: "/recipes"
-    btn_label: "Read recipes"
+    title: "Food Blogs"
+    url: "/food"
+    btn_label: "Read food blogs"
     btn_class: "btn--primary"
     # excerpt: "Read my recipes"
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
