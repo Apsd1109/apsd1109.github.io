@@ -6,6 +6,8 @@ collection: blogs
 entries_layout: grid
 classes: wide
 sort_order: reverse
+header:
+  teaser: /assets/images/you-need-this-book-1.jpg
 ---
 
 If you know me, you'll know that I _hate_ writing (okay, maybe hate is a strong word...). Even though it's quite daunting to write, it challenges me to think through and explain my thoughts in a succinct and clear manner. It's both difficult and fun to come up with creative ways to explain my thoughts!  

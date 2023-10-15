@@ -30,7 +30,7 @@ feature_row:
     btn_label: "Read blogs"
     btn_class: "btn--primary"
     # excerpt: "Explore my latest blogs"
-  - image_path: /assets/images/brownies-simplified-1.jpg
+  - image_path: /assets/images/best-food-2022-1.jpg
     alt: "Photo from latest recipe"
     title: "Food Blogs"
     url: "/food"
