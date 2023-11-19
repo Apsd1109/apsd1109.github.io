@@ -11,8 +11,8 @@ header:
 excerpt: The night is dark, but I am not forsaken...
 ---
 
-![](/assets/images/a-city-called-seattle-1.jpg)
-_Photo by: [Name](Link to image)_
+![](/assets/images/yet-not-i-but-through-christ-in-me-1.jpg)
+_The place where I broke down. (Thank you Ryan Chan for helping take this photo!)_
 
 > As I walked back home in the dark and bitter cold, I could only but cry out to God, while attempting to sing praises to Him...
 
@@ -20,15 +20,15 @@ What I am about to share with you isn't a recent occurrence, but rather, one tha
 
 ---
 
-To give some context, this was the beginning of my undergraduate program at the University of Waterloo. I just started my first term (dubbed "1A") in computer engineering. For those who aren't quite familiar with Waterloo and its engineering programs, well... they're hard. It takes a certain kind of person to go through the brutal (nearly) five year trial — a person with [grit](https://www.youtube.com/watch?v=H14bBuluwB8) (linked is a video that we were shown in one of our classes). The thing with many of the programs at Waterloo, is that not only are students juggling courses, but they're also searching for their co-op placements, doing interviews and looking for housing for their next term. Most of the time, this is a four-month cycle. So we're often just grinding away these things (on top of trying to simply have a life outside of school/work). With some particular programs (all engineering programs come to mind), they're run in cohorts, which means that you get to be with the same group of people throughout your undergrad. But that also means that courses are only offered (essentially) once a year. So failing the term sets you back one full year.
+To give some context, this was the beginning of my undergraduate program at the University of Waterloo. I just started my first term (dubbed "1A") in computer engineering. For those who aren't quite familiar with Waterloo and its engineering programs, well... they're hard. It takes a certain kind of person to go through the brutal (nearly) five year trial — a person with [grit](https://www.youtube.com/watch?v=H14bBuluwB8) (linked is a video that we were shown in one of our classes). The thing with many of the programs at Waterloo, is that not only are students juggling courses, but they're also searching for their co-op placements, doing interviews and looking for housing for their next term. Most of the time, this is a four-month cycle. So we're often just grinding away these things (on top of trying to simply have a life outside of school/work). With some particular programs (all engineering programs come to mind), they're run in cohorts. This means that you get to be with the same group of people throughout your undergrad. But that also means that courses are only offered (essentially) once a year. So failing the term sets you back one full year.
 
-Four years ago, during the month of October and November, I felt like I had finally established some sort of rhythm in place. Even though I was searching for my first co-op (ever since soon as school started...💀), and was barely scraping by with course work (at least one quiz every day distributed across all courses), I somehow managed. Even though it was tough and took hard work, I was quite okay with things.
+Four years ago, during the month of October and November, I felt like I had finally established some sort of rhythm in place. Even though I was searching for my first co-op (since the start of school...💀), and was barely scraping by with course work (with at least one quiz every day distributed across all courses), I somehow managed. Even though it was tough and took hard work, I was quite okay with things.
 
 The one thing that slowly got on my nerves as November came to a close was the job search. I knew it was going to be hard, since I was a first year. But I was secretly expecting to find a job pretty quickly, since I had decent interview skills and volunteered a lot at various places.
 
-During that same week, I had a really hard time grasping some concepts in my calculus course, and that was reflected in one of my quizzes. On that one fated evening, I was studying physics with a friend at their place, in preparation for our quiz the next day. The physics topics were slowly ramping up in difficulty. By the end of the night, I was so mentally exhausted, that I decided to call it quits and head back home.
+During that same week, I had a really hard time grasping some concepts in my calculus course, and that was reflected in one of my quizzes. During _that_ unfortunate evening, I was studying physics with a friend at their place, in preparation for our quiz the next day. The physics topics were slowly ramping up in difficulty. By the end of the night, I was so mentally exhausted, that I decided to call it quits and head back home.
 
-With all the dizzying thoughts of job search, not understanding my calculus course material, frying my brain in worrying about the next day's physics quiz, the emotions were building up. I begun to question my purpose at UW. I started to doubt if I was in the wrong program entirely — this was especially tough as I considered some sort of ministry pathway. With CityAlight's [_Yet Not I But Through Christ In Me_](https://www.youtube.com/watch?v=hwc2d1Xt8gM) playing in my earphones, I finally broke down.
+With all the dizzying thoughts of job search, not understanding my calculus course material, frying my brain in worrying about the next day's physics quiz, the emotions were building up. I begun to question my purpose at UW. I started to doubt if I was in the wrong program entirely — this was especially tough as I considered some sort of ministry pathway. On the walk back, with CityAlight's [_Yet Not I But Through Christ In Me_](https://www.youtube.com/watch?v=hwc2d1Xt8gM) playing in my earphones, I finally broke down.
 
 ---
 
