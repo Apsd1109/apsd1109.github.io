@@ -1,5 +1,5 @@
 ---
-title:
+title: Yet Not I But Through Christ In Me
 date: 2023-11-25
 categories:
   - Blog
