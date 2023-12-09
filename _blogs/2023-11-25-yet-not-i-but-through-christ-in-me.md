@@ -7,7 +7,7 @@ tags:
   - Christianity
   - Reflection
 header:
-  teaser: /assets/images/a-city-called-seattle-1.jpg
+  teaser: /assets/images/yet-not-i-but-through-christ-in-me-1.jpg
 excerpt: The night is dark, but I am not forsaken...
 ---
 

@@ -17,13 +17,11 @@ header:
     - label: "Resume"
       url: /assets/documents/resume.pdf
   caption: "Photo by me, Seattle, WA, 2023"
-excerpt: "Welcome to my page — a place where you can get to know more about me, explore my works, and share in my interests.
-
-"
+excerpt: Welcome to my page — a place where you can get to know more about me, explore my works, and share in my interests.
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /assets/images/you-need-this-book-1.jpg
+  - image_path: /assets/images/yet-not-i-but-through-christ-in-me-1.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
     url: "/blogs"
