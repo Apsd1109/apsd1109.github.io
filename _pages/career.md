@@ -13,10 +13,15 @@ toc_sticky: true
 
 # Working Experience
 
+## PenLink
+
+- Software Engineer Intern
+  - Migrated applications from Docker Swarm to Kubernetes to improve cloud deployment strategies and enhance a 2.0M deal from a customer with particular on-prem needs
+
 ## AWS (Amazon Web Services)
 
 - Software Dev Engineer Intern
-  - Currently working here! More to come soon :)
+  - Enhanced scaling and financial decisions by making DynamoDB metrics readily available through creating a dashboard framework made with React and Python
 
 ## UKG (Ultimate Kronos Group)
 
