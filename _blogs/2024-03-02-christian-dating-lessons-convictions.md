@@ -122,7 +122,7 @@ This is just a small list, and by no means are you obligated to adhere to it. Bu
 
 # Interview with Jacob Reaume
 
-Finally, onto the interview section with Pastor Jacob — the part you've (likely) been waiting for! Jacob holds a Masters of Divinity from the Southern Baptist Theological Seminary. Since August 2009, he has been the senior pastor at Trinity Bible Chapel in Waterloo, Ontario. Jacob is married to his highschool sweetheart, Joanna, and together they have 6 children.
+Finally, onto the interview section with Pastor Jacob — the part you've (likely) been waiting for! Jacob holds a Masters of Divinity from the Southern Baptist Theological Seminary. Since August 2009, he has been the senior pastor at Trinity Bible Chapel in Waterloo, Ontario. Jacob is married to his high school sweetheart, Joanna, and together they have 6 children.
 
 ## How Jacob and Joanna Met
 
