@@ -1,5 +1,5 @@
 ---
-title: Christian Dating: Lessons & Convictions
+title: "Christian Dating: Lessons & Convictions"
 date: 2024-03-02
 categories:
   - Blog
