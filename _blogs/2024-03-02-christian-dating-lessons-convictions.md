@@ -37,15 +37,21 @@ A note for the reader: I do believe that dating should be directed towards marri
 
 # Fundamentals
 
-If you're a Christian, you've probably heard that marriage (and therefore dating) should be between two Christians, otherwise, you'd be "unequally yoked" (2 Cor. 6:14) — that is, you'd be in a relationship where you're constantly in conflict with each other (because of your fundamental beliefs). This is an issue for the Christian dating a non-Christian, since at times, you'd be forced to choose between obeying God or going along with your partner's desires. Obviously, that's not a great place to be. I won't talk about this further, since this is a pretty straightforward thing. But it is **assumed** throughout the rest of this blog that dating is between two Christians. That being said, if you're a Christian dating a non-Christian... wyd? (read onwards...)
+If you're a Christian, you've probably heard that marriage (and therefore dating) should be between two Christians, otherwise, you'd be "unequally yoked" (2 Cor. 6:14) — that is, you'd be in a relationship where you're constantly in conflict with each other (because of your fundamental beliefs). This is an issue for the Christian dating a non-Christian, since at times, you'd be forced to choose between obeying God or going along with your partner's desires — not a great place to be. I won't talk about this further, but it is **assumed** throughout the rest of this blog that dating is between two Christians. That being said, if you're a Christian dating a non-Christian... wyd? (read onwards...)
 
 ![](../assets/images/christian-dating-lessons-convictions-2.jpg)
 
 I think that there is a tendency to settle once people check off the "Christian" box. But I think that is a really low bar to hit. Instead, I think the fundamentals of successful dating are the following: clarity, sanctification, and community.
 
+## Clarity
+
 I define clarity quite simply: gaining certainty in whether or not to move forward with marriage. This means that if the dating phase comes to an end, and you know that both of you are headed into marriage, you've gained clarity and have successfully dated. Equally as successful is knowing that the relationship will not go further towards marriage and breaking it off immediately. The question to ask yourself is not just, "Do I want to marry this person?", but rather, "Am I willing to make a lifelong covenant with this person? To lay my life down to serve her/follow his lead?" (Side note: using biblical language for marriage helps put things into perspective). If that answer is a yes, get the process rolling! If not, break it off immediately!
 
+## Sanctification
+
 As I quoted above from 1 Thess. 4:3, God's will for you is **your sanctification**. So then, if your dating relationship is causing you and your partner to grow in holiness, that's a great sign! If not, and especially if you've been together for a considerable amount of time, you should re-evaluate things. The point is, you should be growing in your love for and obedience towards Christ as you date!
+
+## Community
 
 Community is also extremely important, as they can help you honestly evaluate things. This is especially helpful when you're prone to seeing things in rose-tinted glasses! So, building relationships (especially with those who are already married, as they can share their wisdom) will help you greatly! Also, you don't want to isolate yourself as you date. Should the relationship go south, you don't want to find yourself without people to be with, as that can be really tough.
 
