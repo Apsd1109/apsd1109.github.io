@@ -130,6 +130,8 @@ This is just a small list, and by no means are you obligated to adhere to it. Bu
 
 Finally, onto the interview section with Pastor Jacob — the part you've (likely) been waiting for! Jacob holds a Masters of Divinity from the Southern Baptist Theological Seminary. Since August 2009, he has been the senior pastor at Trinity Bible Chapel in Waterloo, Ontario. Jacob is married to his high school sweetheart, Joanna, and together they have 6 children.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57yuCYgnXioHTcfSbfxm92?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## How Jacob and Joanna Met
 
 Anda Su: Thank you for meeting up and chatting a bit about your thoughts as I compile these into a blog.
