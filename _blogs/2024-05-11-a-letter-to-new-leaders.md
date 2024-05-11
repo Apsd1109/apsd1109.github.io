@@ -8,7 +8,7 @@ tags:
   - Leadership
 header:
   teaser: /assets/images/a-letter-to-new-leaders-1.jpg
-excerpt:
+excerpt: I wanted to spend some time writing to the next generation of leaders, to both encourage and exhort them as they take up a significant role in ministry...
 ---
 
 ![](/assets/images/a-letter-to-new-leaders-1.jpg)
