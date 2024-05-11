@@ -14,6 +14,8 @@ excerpt:
 ![](/assets/images/a-letter-to-new-leaders-1.jpg)
 _Photo by: [Álvaro Serrano](https://unsplash.com/photos/black-and-silver-fountain-pen-hjwKMkehBco)_
 
+This article was originally written for the [UWCCF blog](https://medium.com/uwccf/a-letter-to-new-leaders-3fe2953c2f95), but I wanted to include it on my personal website, since there are many wonderful things to think about when it comes to leadership in ministry.
+
 ---
 
 As I close out my time with UWCCF, I wanted to spend some time writing to the next generation of leaders, to both encourage and exhort them as they take up a significant role in ministry. I hope that this "letter" is helpful to those who are new to leadership in ministry!
@@ -42,7 +44,7 @@ You can't lead nonchalantly/casually! For me, this meant that I had to soberly e
 
 In particular, the time cost is a very important thing to think through. For example: "How much time do I spend every week on this? How would I be feeling energy-wise after spending that time?" Spending a lengthy time on ministry things is very draining, spiritually, emotionally, mentally, and even physically. Even long after an event, my mind could still be stewing over things, or spiral out of control over exciting ideas, chewing up more of my time and mental capacity. I would highly recommend people not spread themselves too thin because of this. Just do one thing, and do it very well! Whatever you do sign up for, you have to be present for, not 80%, nor 90%, but 100% of the time. There can't be one foot in and one foot out of the door in leadership!
 
-There can also be costs in resources and relationships. For example, you might spend money to invest into learning about leadership (e.g., books), or spend it on others to showcase generosity. I'm not trying to imply that you need to spend a lot of money to be an effective leader, but I do think that you should steward your resources accordingly. Being a leader also means that you are intentionally rubbing shoulders with people you might not normally spend time with. Your relationships with others have to be intentional! On the other hand, you might be alienated by non-Christian friends for being "too Christian" — it could cost your friendships. Whatever price you decide to pay with regard to resources and relationships, people will notice it, and it plays a role in your leadership!
+There can also be costs in resources and relationships. For example, you could spend money on others to demonstrate generosity (servant leadership) — not that you need spend money to be an effective leader; you can use the resources you already have (e.g., opening up your home for a Bible study, sharing your knowledge and experience gained from mentors). Above all these examples, I do think that you should **steward your resources accordingly**. Being a leader also means that you are intentionally rubbing shoulders with people you might not normally spend time with. Your **relationships with others have to be intentional**! On the other hand, you might be alienated by non-Christian friends for being "too Christian" — **it could cost your friendships**. Whatever price you decide to pay with regard to resources and relationships, people will notice it, and it plays a role in your leadership!
 
 More Scripture references, regarding following Jesus (and counting the cost in leadership):
 
