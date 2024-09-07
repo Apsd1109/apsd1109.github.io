@@ -33,8 +33,17 @@ Ref: Ezek 18:32, Rom 3:21-26, Rom 5:6-11, Phil 2:6-11, Rom 10:9-10
 
 ## New Creation
 
-Having been reconciled to God by the cleansing of sin, God transforms His people's hearts to walk in His will and ways, by the power of His Holy Spirit. Having died to the old, sinful self, and brought to new life, the Christian seeks to do all things to the glory of God, and thus, takes part in bringing about a "new creation" through the ordering of this broken world, fulfilling what was intended for man from the very start. Ultimately, the Christian seeks for souls to be saved and for the world to be renewed.
+Having been reconciled to God by the cleansing of sin, God transforms His people's hearts to walk in His will and ways, by the power of His Holy Spirit. Having died to the old, sinful self, and brought to new life, the Christian seeks to do all things to the glory of God, and thus, takes part in bringing about a "new creation" through the ordering of this broken world, living out what was intended for man from the very start. Ultimately, the Christian seeks for souls to be saved and for the world to be renewed, to the glory of God!
 
 Ref: Col 1:15-23, Col 2:6-7, 2 Cor 5:17, 1 Cor 10:31
 
 ---
+
+# Numerous Interests
+
+I'm a naturally curious person, and love to learn just about anything! While I am a quiet person at heart, you can always strike up a conversation with me, and I'll listen and ask questions, especially if it pertains to the following:
+
+- Ministry: it's a great joy and privilege to take part in this, as it is so amazing to see souls saved and the world transformed for the better.
+- Photography: you probably have noticed that some of the photos featured on this website are mine! I love to share of adventures (and plans), moments, and just solid, stunning shots.
+- Reading & Writing: I mostly do this with respects to my faith, but I do also hope to just write and share more casually 🙂.
+- Food, and anything food-adjacent: I love to cook my own food and share it with others! I'm also trying to learn how to pair drinks with food, so if you're knowledgeable in that area, we **need** to talk. Bonus points if you're a fellow tea enjoyer 🍵! One day, I hope to branch out into being more self-sustainable (especially with food), so if you're already doing that, I'd love to hear from you.

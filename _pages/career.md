@@ -7,42 +7,45 @@ toc_icon: "file-alt"
 toc_sticky: true
 ---
 
+If you haven't already, take a look at my [about](./about.md) page to get a wholistic understanding of who I am!
+
+When it comes to matters of career, I have studied and worked in the software industry. I am a naturally curious person and an avid learner, and dare I say, competitive (in a self-directed way), seeking to do my work with all excellence!
+
 # Education
 
-- Candidate for BASc, Honours Computer Engineering @ University of Waterloo, Sept. 2019 - Apr. 2024
+- BASc, Honours Computer Engineering @ University of Waterloo, Sept. 2019 - Apr. 2024
 
 # Working Experience
 
 ## PenLink
 
 - Software Engineer Intern
-  - Migrated applications from Docker Swarm to Kubernetes to improve cloud deployment strategies and enhance a 2.0M deal from a customer with particular on-prem needs
+  - Spearheaded migration efforts of critical applications from Docker Swarm to Kubernetes, improving cloud deployment strategies, playing a pivotal role in securing a $2.0M deal from a particular client
 
 ## AWS (Amazon Web Services)
 
 - Software Dev Engineer Intern
-  - Enhanced scaling and financial decisions by making DynamoDB metrics readily available through creating a dashboard framework made with React and Python
+  - Empowered scaling and financial decision-making by developing a React- and Python-based dashboard framework for DynamoDB metrics visualization
 
 ## UKG (Ultimate Kronos Group)
 
 - Software Developer Intern
-  - Improved website usability by reducing API payloads, decreasing wait times by more than 95%
+  - Improved website usability, decreasing wait times by more than 95% by optimizing API payloads
 
 ## Sun Life Financial
 
 - Innovation Developer Intern
-  - Reduced operational costs by 30% by researching, designing, and implementing guided tours using React and Shepherd.js; Approved for funding and wider integration by the CFO and CTO
-- Junior Architect Intern
-  - Revised project and governance processes to increase transparency and efficiency between by analizing the needs of multiple stakeholder groups, creating documentation and training other teams
-
-## Stealth Monitoring
-
-- Junior Developer Intern
-  - Enhanced diagnostics capabilities by automating the collection of ONVIF-compliant device data
+  - Reduced operational costs by 30% through designing and implementing React-based guided tours
 
 [Read more on my LinkedIn...](https://www.linkedin.com/in/andasu/)
 
 # Projects
+
+## [FYDP:ResuMate - AI-based Resume Parser/Self-Evaluation Tool]()
+
+- With the power of machine learning (ML) and natural language processing (NLP), my team and I built this tool for our Fourth Year Design Project/Capstone. This tool was created to improve the job application experience
+- Trained NLP models in Python with spaCy with an overall F1-score of 83%
+- Deployed a React-based web-app on AWS using serverless methodologies
 
 ## [UMigrate - Student Networking App](https://github.com/Team-uMigrate/umigrate/)
 
