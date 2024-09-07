@@ -21,7 +21,7 @@ Ref: Rom 1:20, Gen 1-2
 
 ## Fall
 
-The first man and woman (Adam and Eve) however, did not trust and live within God's will, and rebelled against Him (this is known as "sin"). By sinning against God (who is infinitely holy-- that is, "unparalleled in His majesty", and, "unblemished in moral purity"), the God who authored all of life, they were condemned to death (physical, relational, and spiritual) for all of eternity.
+The first man and woman (Adam and Eve) however, did not trust and live within God's will, and rebelled against Him (this is known as "sin"). By sinning against God (who is infinitely holy — that is, "unparalleled in His majesty", and, "unblemished in moral purity"), the God who authored all of life, they were condemned to death (physical, relational, and spiritual) for all of eternity.
 
 Ref: Gen 3
 
