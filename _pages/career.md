@@ -41,7 +41,7 @@ When it comes to matters of career, I have studied and worked in the software in
 
 # Projects
 
-## [FYDP:ResuMate - AI-based Resume Parser/Self-Evaluation Tool]()
+## [FYDP: ResuMate - AI-based Resume Parser/Self-Evaluation Tool]()
 
 - With the power of machine learning (ML) and natural language processing (NLP), my team and I built this tool for our Fourth Year Design Project/Capstone. This tool was created to improve the job application experience
 - Trained NLP models in Python with spaCy with an overall F1-score of 83%
