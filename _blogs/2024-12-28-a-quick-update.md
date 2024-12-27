@@ -136,4 +136,4 @@ So I'm excited for this! I guess this is what Jesus meant by "seeking first the 
 
 Man, it's been good. God is SO good! And I hope that I could get across to you how good He has been to me, and as a result, join me in praising Him!
 
-Pray that I would find my proper footing in the church, using my talents as best as I can, and that the gospel would spread among my friends who are also here in Seattle! And all the while, pray that I would lean into the LORD and trust in His gracious and generous provision every step of the way(as He evidently already has)! And above all, that I would continue to know and love the LORD all the more!
+Pray that I would find my proper footing in the church, using my talents as best as I can, and that the gospel would spread among my friends who are also here in Seattle! And all the while, pray that I would lean into the LORD and trust in His gracious and generous provision every step of the way (as He evidently already has)! And above all, that I would continue to know and love the LORD all the more!
