@@ -11,7 +11,7 @@ header:
 excerpt: Originally I wanted to write up a quick sharing a month into my move across the continent, but things got a bit overwhelming...
 ---
 
-![](../assets/images/a-quick-update-23.jpg)
+![](/assets/images/a-quick-update-23.jpg)
 _Cards from friends from my community group to welcome me back!_
 
 Originally I wanted to write up a quick sharing a month into my move across the continent, but things got a bit overwhelming, and then one month turned into two, two turned into three... And now Christmas is over! I was actually hoping to finish my article on preaching earlier in the year, but it's looking like that will be delayed until early next year (hopefully no more delays 😤) — it's quite the heavy article, so pray for me for this 🙏 (put another way, I'm procrastinating writing by writing something completely different 😅). I also didn't want to take away from the Advent season by writing something not related to Advent, so I was having some second thoughts on writing this... But God has been at work in very funny and joyful ways this season that I couldn't NOT share!
@@ -26,7 +26,7 @@ My first week in Seattle was WILD. Actually, never mind first week, my first 48 
 
 On Monday, I committed to getting more essentials for my apartment, so I headed to one of the department stores in downtown Seattle and amassed a LOT of various supplies. It took a backpack, two bags clipped to my backpack, another huge shopping bag slung over one of my shoulders, and my two hands to carry the other miscellaneous bulky things. I became a walking mini-department store, waddling around like a penguin 🐧🤣. It was so hard to get around, that I had to stop and pause my waddling every minute — thankfully, public transit exists! Though, I unfortunately took the wrong bus line and ended up having to just hail a ride back home 😭. After finally getting home and quickly unpacking, I had to make a mad dash to the church to do my members interview (yes, I did it two days after landing in Seattle). This was probably the highlight of my day, being able to finally sit down and just relax and chat. You see, up until that point, all I had was some fruit for breakfast, and I was running about and so exhausted physically, so being able to have some snacks and talk with one of the pastors was genuinely so encouraging! Funny enough, I was debating on doing my interview on the Wednesday, but something inside of me told me to do it on Monday — turns out, the elders meet on Tuesday regularly, and they actually talked about my application in time to get it processed for the next member's meeting (which happened the Sunday afterwards). Now I'm known as the guy who speed-ran church membership within a week of arriving in Seattle 🤣. Anyways, after my interview, I decided to do my whole shopping spree all over again, but this time, with groceries! And yes, I just hailed a ride back home again, since I bought WAY too much food (this seems to be a trend with me...). I finally got back that evening to be able to cook my first meal!! However, I realized that my sofa also needed to come together that very night, as I otherwise wouldn't have a bed to sleep in... I tried to assemble it on my own and... well I'm glad that I had brother David come in clutch to help me out 😅. It was a super tiring day, but I was glad that things were coming together so quickly 🙂.
 
-![](../assets/images/a-quick-update-1.jpg)
+![](/assets/images/a-quick-update-1.jpg)
 _My first meal! Chicken and roasted broccoli pasta. I didn't have any dinnerware so I ate this out of the skillet with chopsticks 🥢_
 
 Now throughout the rest of the week, my packages (primarily kitchen stuff) started to arrive. As I was cleaning things one day, my curiosity got the best of me. You see, my cutting board just so happened to fit perfectly in my sink. Being the silly person I am, I decided to purposefully drop it and see what would happen... What followed was a solid 3 minutes of panicking as I tried to pry my cutting board out from the sink to no avail 💀 — at this point, I was mentally preparing myself to lose the rest of the day to this disaster... BUT I noticed that the previous tenant just so happened to leave a metal spatula in the dishwasher. So, being the genius engineer I am, I tried to pry the cutting board with this magical spatula — and I was able to free the cutting board! God provides in very odd and funny ways I guess 🤣 (I've also had to use this spatula on more than one occasion... 😶).
@@ -37,72 +37,72 @@ To round off the week, I was got some help from Steph on Friday to do a quick Ik
 
 The remainder of the first month went by so quickly as I continued to put my life together and get some other mini furniture together. At the end of the month, I decided to finally host my housewarming party! It was such a joy to see my apartment filled to the brim with many friends feasting together (I had nearly 20 people in my one bedroom apartment at a time, with roughly 25 people coming out in total)! I'm so glad for community 😁.
 
-![](../assets/images/a-quick-update-2.jpg)
+![](/assets/images/a-quick-update-2.jpg)
 _Here's what I made that night! Kofte over rice, with hummus and a salad, topped with a garlic-yoghurt sauce (for some reason I instinctively spell yogurt with a "h" even though all the Canadian friends I know of look at me oddly and prefer the spelling without the "h")._
 
-![](../assets/images/a-quick-update-3.jpg)
+![](/assets/images/a-quick-update-3.jpg)
 _A quick snapshot of friends eating together — this was barely half the people that came out that night!_
 
-![](../assets/images/a-quick-update-4.jpg)
+![](/assets/images/a-quick-update-4.jpg)
 _What 10 cups look like. For some reason I thought that people would eat lots of rice so 10 sounded right... I in my twisted mind started chuckling when I saw this sight (it's definitely one to behold), but I definitely had to eat a bunch of rice dishes the remainder of the next week 🤣_
 
 Later in October, some friends from church organized a hike right as the trees were turning colours (in Washington, we've got pine trees that have their needles turn bright yellow and then drop for the winter, which is quite unique — they're called the larches)! This was such a wonderful hike as the weather was fantastic! Throughout the hike, I found myself talking to folks that I knew previously, but never had any lengthy conversations with. This was the first time since coming back that I felt this close and familiar with everyone, as if there wasn't such a huge time gap between me seeing them, and for that, I'm glad 😊.
 
-![](../assets/images/a-quick-update-5.jpg)
+![](/assets/images/a-quick-update-5.jpg)
 _Da bois 😎_
 
-![](../assets/images/a-quick-update-6.jpg)
+![](/assets/images/a-quick-update-6.jpg)
 _On the trail 🚶‍♂️🚶‍♀️_
 
-![](../assets/images/a-quick-update-7.jpg)
+![](/assets/images/a-quick-update-7.jpg)
 _Blue Lake w/ Larches!_
 
-![](../assets/images/a-quick-update-8.jpg)
+![](/assets/images/a-quick-update-8.jpg)
 _Bird! 🐦_
 
 In November, I ended up hosting another large group — worship night! We ate lots and sang lots more 🎶.
 
-![](../assets/images/a-quick-update-9.jpg)
+![](/assets/images/a-quick-update-9.jpg)
 
-![](../assets/images/a-quick-update-10.jpg)
+![](/assets/images/a-quick-update-10.jpg)
 
 And to round out November, I attended numerous Thanksgiving/"friendsgiving" gatherings (now that I'm writing this it might be time to invest into a scale to make sure I'm not gaining unnecessary weight 🤣)!
 
-![](../assets/images/a-quick-update-11.jpg)
+![](/assets/images/a-quick-update-11.jpg)
 _Friendsgiving no. 1 — shout-out Sam for carving the turkey!_
 
-![](../assets/images/a-quick-update-12.jpg)
+![](/assets/images/a-quick-update-12.jpg)
 _Singing praises and thanks to God together!_
 
-![](../assets/images/a-quick-update-13.jpg)
+![](/assets/images/a-quick-update-13.jpg)
 _Such a large group and space, but it was super awesome to see everyone (and all the various delicious foods 😋)!_
 
-![](../assets/images/a-quick-update-14.jpg)
+![](/assets/images/a-quick-update-14.jpg)
 _Thanksgiving day with my community group!_
 
 Oh I guess I also went to Discovery park, with all my camera gear... But totally forgot to bring batteries so I was just carrying around heavy glass and metal around for fun 💀 But still managed to get some good shots on my phone!
 
-![](../assets/images/a-quick-update-15.jpg)
+![](/assets/images/a-quick-update-15.jpg)
 
-![](../assets/images/a-quick-update-16.jpg)
+![](/assets/images/a-quick-update-16.jpg)
 
-![](../assets/images/a-quick-update-17.jpg)
+![](/assets/images/a-quick-update-17.jpg)
 _I waited for the right time for the boat to pass by the two lines reflecting the sun's rays in the water 🤩_
 
 And of course, December was filled with more gatherings! Christmas carolling, and eating more good food 😋!
 
-![](../assets/images/a-quick-update-18.jpg)
+![](/assets/images/a-quick-update-18.jpg)
 
-![](../assets/images/a-quick-update-19.jpg)
+![](/assets/images/a-quick-update-19.jpg)
 _The first large gathering in December for carolling and dinner!_
 
-![](../assets/images/a-quick-update-20.jpg)
+![](/assets/images/a-quick-update-20.jpg)
 _I hosted a more intimate/smaller group for Christmas day! Providing company to those who didn't have any 😊_
 
-![](../assets/images/a-quick-update-21.jpg)
+![](/assets/images/a-quick-update-21.jpg)
 _Shout-out Kevin for making apple pie FROM SCRATCH! 👨‍🍳👏_
 
-![](../assets/images/a-quick-update-22.jpg)
+![](/assets/images/a-quick-update-22.jpg)
 _We also had my chocolate tart for dessert — I was definitely so full I kinda zoned-out during our discussions oops_
 
 I'm honestly so glad for how quickly I reconnected with everyone! It feels like a home away from home, like a comforting-closeness feeling 😊.
