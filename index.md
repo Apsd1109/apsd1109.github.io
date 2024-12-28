@@ -21,7 +21,7 @@ excerpt: Welcome to my page — a place where you can get to know more about me,
 # intro:
 #   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: /assets/images/my-only-boast-1.jpg
+  - image_path: /assets/images/a-quick-update-23.jpg
     alt: "Photo from latest blog"
     title: "Blogs"
     url: "/blogs"
