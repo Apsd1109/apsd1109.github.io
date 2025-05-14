@@ -1,10 +1,14 @@
-<!-- ---
+---
 title: When The Church Surrenders
-date: YYYY-MM-DD
+date: 2025-05-30
 categories:
   - Blog
 tags:
-  - Tag
+  - Christianity
+  - Pandemic
+  - COVID-19
+  - Preaching
+  - Church
 header:
   teaser: /assets/images/when-the-church-surrenders-1.jpg
 excerpt:
@@ -13,6 +17,7 @@ excerpt:
 ![](/assets/images/when-the-church-surrenders-1.jpg)
 _Photo by: [Micheile Henderson](https://unsplash.com/photos/white-temple-ruins-during-daytime-VWpOwhCzPuE)_
 
+> "Behold, the days are coming," declares the Lord GOD, "when I will send a famine on the land— not a famine of bread, nor a thirst for water, but of hearing the words of the LORD." (Amos 8:11, ESV)
 
 # Preamble
 
@@ -20,15 +25,13 @@ Originally, I wanted to release this blog in early 2024, in hopes of timing it t
 
 "Why release it in relationship to the COVID-19 pandemic?", you might ask... Here's my motivation and bold take: the majority of churches (and churches in Canada, since that's where I'm from) failed to live up to their calling during the pandemic. Of course, I'll develop that idea through the remainder of this blog. But beyond just making hot takes in regards to the pandemic, I want to consider the shortcomings that were already present in churches before the pandemic, that ultimately led to the church not living up to her calling in the midst of a worldwide crisis.
 
-<!-- "Who is this for?" I would say that this is first directed to church leaders, but can also (and I think, _should_) be read by the laypersons. -->
+"Is this still relevant?" It absolutely is. As you read, you'll come to realize that the fundamentals — that is, the preaching of the gospel of Jesus Christ — must remain. While I use the pandemic as a backdrop and example, the applications that come from that can be universally applied.
 
-<!-- Finally, before I begin, I want to point out what I am not saying here. I know that this is a pretty touchy topic, and it's not my goal to be divisive. My desire is only to point out what is to be expected of the Church, in a Biblical manner.
+"Who is this for?" I would say that this is first directed to church leaders, but can also (and I think, _should_) be read by the laypersons.
 
-I am **NOT** saying the following:
+Finally, before I begin, I want to point out what I am not saying here. I know that this is a pretty touchy topic, and it's not my goal to be divisive for divisiveness sake. My desire is only to point out what is to be expected of the Church, in a Biblical manner. Please don't make the mistake of conflating what I **don't say** as if I am affirming one particular position. I could have went about this in a million and one ways, but decided to touch on the essential principles.
 
-- God can't work through "unforeseen circumstances" and save souls. -->
-
-> "Behold, the days are coming," declares the Lord GOD, "when I will send a famine on the land— not a famine of bread, nor a thirst for water, but of hearing the words of the LORD." (Amos 8:11, ESV)
+With that all out of the way, strap in and enjoy (it's going to be a **long** read 😁)!
 
 # The Church as a Pillar
 
