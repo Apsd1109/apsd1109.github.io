@@ -148,7 +148,7 @@ In light of all of this, how did the church fair in the midst of a global pandem
 
 Up until this point, things haven't been very controversial (or at least, they shouldn't have been if you take the Scriptures seriously). However, that will not be the case in this section, and that's to be expected, given the nature of the topic. I'll continue to do my best to have a Scriptural basis for every claim I make and guide you through my thought processes. On the other hand, I ask that you the reader evaluate my claims honestly instead of brushing me over with a broad brush, as I have put the time and effort to be thorough. If that means taking a pause to take a walk, to pray before reading, I highly encourage you do that.
 
-And I will say that I've had to sit with these thoughts for a long time, and changed sides as a result. While this article comes with great conviction, it's not dogmatic. So if you come to the end of this article disagreeing with me, I extend an invitation to continue to dialogue with me for the purposes of seeing God glorified in our churches. Okay, enough preambling, let's move on!
+And I will say that I've had to sit with these thoughts for a long time, and changed sides as a result. While this article comes with great conviction, it's not dogmatic. So if you come to the end of this article disagreeing with me, I extend an invitation to continue to dialogue with me for the purposes of seeing God glorified in our churches. Okay, enough preamble, let's move on!
 
 ## An Elder's Responsibility
 
@@ -162,14 +162,14 @@ It's at this point that I remind the reader of the qualifications for elders tha
 
 > He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. He flees because he is a hired hand and cares nothing for the sheep. (John 10:12–13, ESV)
 
-Again, while Jesus here is not talking directly about elders, I do think it's reasonable to include them in the same category as "shepherd", for He even uses similar language in the end of John, where he commissions Peter, one of His apostles, to "take care of his sheep" ([John 21:15-17]()). In reality, elders only have a temporary assignment over a flock — they are stewarding a specific group of believers on Jesus' behalf.
+While Jesus here is not talking directly about elders, I do think it's reasonable to include them in the same category as "shepherd", for He even uses similar language in the end of John, where he commissions Peter, one of His apostles, to "take care of his sheep" ([John 21:15-17]()). In reality, elders only have a temporary assignment over a flock — they are stewarding a specific group of believers on Jesus' behalf.
 
 How devastating would it be then, to be described as the hired hand in your assignment? Make no mistake, elders aren't perfect; they can never match up to the one true good Shepherd and Overseer that is Jesus. But that doesn't mean that they can flippantly perform their task. The question remains, were they faithful in keeping watch over the souls of their flock? Or did they cowardly abandon their flock when they were persecuted?
 
-I answer that with some questions of my own:
+Here are some questions to consider:
 
 - How many in the church were swept up by the Christ-less conservatism of the political right? How many were caught up by false prophets predicting the winning of elections that never materialized?
-- How any in the church were deceived by the antichrist leftist movements? How many were brainwashed into thinking that the "social gospel" was more important than the one true gospel?
+- How many in the church were deceived by the antichrist leftist movements? How many were brainwashed into thinking that the "social gospel" was more important than the one true gospel?
 - How many pews were filled with sermons of false hope that drew attention away from Christ to focus solely on physical solutions to a spiritual problem?
 - Were elders known for their exertions to win and woo back the lost sheep of their flock? Or did they give up without even trying?
 
@@ -177,7 +177,7 @@ In Matthew 18, where Jesus is instructing His disciples on humility, He uses thi
 
 > And calling to him a child, he put him in the midst of them and said, "Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. Whoever humbles himself like this child is the greatest in the kingdom of heaven. Whoever receives one such child in my name receives me, but whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea." (Matthew 18:2–6, ESV)
 
-Given this, I hope that not too many millstones have been fastened during the pandemic. While I don't know how every single church faired during that time, I think it's safe to say that most elders would be found wanting, given the decline of most churches' spiritual health. To have been an elder during the pandemic was not an easy thing, that's for sure.
+I hope that not too many millstones have been fastened during the pandemic. While I don't know how every single church faired during that time, I think it's safe to say that most elders would be found wanting, given the decline of most churches' spiritual health. To have been an elder during the pandemic was not an easy thing, that's for sure.
 
 ## The Fickle Hearts of Men
 
@@ -195,7 +195,7 @@ Another time, when Paul visits Jerusalem, he was quickly seized and beat, just b
 
 > When the seven days were almost completed, the Jews from Asia, seeing him in the temple, stirred up the whole crowd and laid hands on him, crying out, "Men of Israel, help! This is the man who is teaching everyone everywhere against the people and the law and this place. Moreover, he even brought Greeks into the temple and has defiled this holy place." For they had previously seen Trophimus the Ephesian with him in the city, and they supposed that Paul had brought him into the temple. Then all the city was stirred up, and the people ran together. They seized Paul and dragged him out of the temple, and at once the gates were shut. (Acts 21:27–30, ESV)
 
-Again, this resistance to God's word isn't a mere anomaly, but is in fact, consistent in the Old Testament as well. In particular we see that there will always be those who seem like "insiders" but secretly hate God because they do not want to hear His Word. Consider Isaiah 30, where Isaiah is recording the things that God is revealing to him, regarding the rebellious southern kingdom of Judah:
+Again, this resistance to God's word isn't a mere anomaly, but is in fact, consistent with the Old Testament as well. In particular we see that there will always be those who seem like "insiders" but secretly hate God because they do not want to hear His Word. Consider Isaiah 30, where Isaiah is recording the things that God is revealing to him, regarding the rebellious southern kingdom of Judah:
 
 > For they are a rebellious people, lying children, children unwilling to hear the instruction of the LORD; who say to the seers, "Do not see," and to the prophets, "Do not prophesy to us what is right; speak to us smooth things, prophesy illusions, leave the way, turn aside from the path, let us hear no more about the Holy One of Israel." (Isaiah 30:9–11, ESV)
 
@@ -207,69 +207,158 @@ They eventually bring Micaiah to the group, and he mocks the false prophets, rep
 
 > And Micaiah said, "Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing beside him on his right hand and on his left; and the LORD said, 'Who will entice Ahab, that he may go up and fall at Ramoth-gilead?' And one said one thing, and another said another. Then a spirit came forward and stood before the LORD, saying, 'I will entice him.' And the LORD said to him, 'By what means?' And he said, 'I will go out, and will be a lying spirit in the mouth of all his prophets.' And he said, 'You are to entice him, and you shall succeed; go out and do so.' Now therefore behold, the LORD has put a lying spirit in the mouth of all these your prophets; the LORD has declared disaster for you." (1 Kings 22:19–23, ESV)
 
-All of this is to show truly how wicked and fickle are the hearts of man, that they insist on falsehood ([Jer. 17:9]()).
+Another example is when the Psalmist in the fourteenth and fifty-third chapter summarize this behaviour to the inherent wickedness of the human heart (the two are nearly identical):
 
-> “There is a way that seems right to a man, but its end is the way to death.” (Proverbs 16:25, ESV)
+> The fool says in his heart, "There is no God." They are corrupt, they do abominable deeds; there is none who does good. The LORD looks down from heaven on the children of man, to see if there are any who understand, who seek after God. They have all turned aside; together they have become corrupt; there is none who does good, not even one. (Psalm 14:1–3, ESV)
 
-> “But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power. Avoid such people. For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions, always learning and never able to arrive at a knowledge of the truth. Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith. But they will not get very far, for their folly will be plain to all, as was that of those two men.” (2 Timothy 3:1–9, ESV)
+As King Solomon simply puts it:
 
-> “The fool says in his heart, “There is no God.” They are corrupt, they do abominable deeds; there is none who does good. The LORD looks down from heaven on the children of man, to see if there are any who understand, who seek after God. They have all turned aside; together they have become corrupt; there is none who does good, not even one.” (Psalm 14:1–3, ESV)
+> There is a way that seems right to a man, but its end is the way to death. (Proverbs 16:25, ESV)
 
-> “The fool says in his heart, “There is no God.” They are corrupt, doing abominable iniquity; there is none who does good. God looks down from heaven on the children of man to see if there are any who understand, who seek after God. They have all fallen away; together they have become corrupt; there is none who does good, not even one.” (Psalm 53:1–3, ESV)
+Going back to the New Testament, Paul puts it like this to Timothy:
 
-## Hypocrisy
+> But understand this, that in the last days there will come times of difficulty. For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy, heartless, unappeasable, slanderous, without self-control, brutal, not loving good, treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God, having the appearance of godliness, but denying its power. Avoid such people. For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions, always learning and never able to arrive at a knowledge of the truth. Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith. But they will not get very far, for their folly will be plain to all, as was that of those two men. (2 Timothy 3:1–9, ESV)
 
-> “He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD.” (Proverbs 17:15, ESV)
-> “To impose a fine on a righteous man is not good, nor to strike the noble for their uprightness.” (Proverbs 17:26, ESV)
+The opposition to God's Word and ungodliness from those outside of the church is to be expected. What I think is worth pointing out is that this is **also** to be expected of _some_ that seem to be within the church. Some searching questions to ask yourself: Did you oppose the preaching of God's Word during the pandemic? Put it another way, did you think that it had a lower priority simply because of the circumstances? Sadly, I did for a time. All of this is to show truly how wicked and fickle the hearts of men are; that they insist on falsehood and unrighteousness ([Jer. 17:9]()).
+
+I do want to push this topic a bit more, because I believe that the fickleness reared its head during the pandemic in the following ways: Hypocrisy, disobeying Scripture, and misconstruing Scripture.
+
+### Hypocrisy
+
+Hypocrisy was one of the most common things that Jesus condemned when He walked the earth. Rabbis, pharisees, and scribes alike all were criticized for their hypocrisy. Hypocrisy is so abhorrent to God because of the inconsistency — how could one know and even teach the truth yet act in the exact opposite? To be hypocritical is to be an affront to God because of the disregard and bastardization of the truth — that which God Himself defines.
+
+With that in mind, consider these two short proverbs:
+
+> He who justifies the wicked and he who condemns the righteous are both alike an abomination to the LORD. (Proverbs 17:15, ESV)
+> To impose a fine on a righteous man is not good, nor to strike the noble for their uprightness. (Proverbs 17:26, ESV)
+
+Or consider Paul's letter to the church in Rome. In the second half of the first chapter, he expounds upon the length at which the unrighteous are condemned. He concludes the section with this remark:
+
 > “Though they know God’s righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.” (Romans 1:32, ESV)
 
-# Encouragements and Exortations
+And if you read through the verses immediately prior, you'll see truly how wicked Paul describes such people ([Rom 1:29-31]()). It's only fitting that God's wrath is revealed against such ungodliness.
 
-- god providentially uses the phyiscal gathering of the local church to sanctify his people and to save sinners
-
-# Shortcomings of the Church
-
-- hypocrisy/backpedaling, actions not lining up w/ the message of the Gospel, hinders the Gospel message (Gal 2:11-14)
-  - neglecting to gather together (Heb 10:25)
-  - perversion of "love" for your neighbour
-  - appealing to man's desires (in preaching) (Is 30:10)
-  - head of the church is Jesus, not the government (Luke 20:25, Eph 1:22-23)
-
-== WIP List of Scripture ==
+But now even consider the cousin of hypocrisy — backpedaling. Backpedaling is essentially cowardice and faithlessness bundled together. It's extremely damaging to the witness of the gospel. So much so that Paul in his letter to the Galatians mentioned his confrontation with the apostle Peter (also named Cephas here):
 
 > “But when Cephas came to Antioch, I opposed him to his face, because he stood condemned. For before certain men came from James, he was eating with the Gentiles; but when they came he drew back and separated himself, fearing the circumcision party. And the rest of the Jews acted hypocritically along with him, so that even Barnabas was led astray by their hypocrisy. But when I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, “If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?”” (Galatians 2:11–14, ESV)
 
-> “not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.” (Hebrews 10:25, ESV)
+And did this not also happen during the pandemic? Instead of the gospel alone being the central message of the pulpit, we saw preachers become apologetic for irrelevant things (like the colour of their skin, or restricting people from hearing the preached Word, for example) and put it all up under the guise of being more "Christ-like". What happened after was the effectiveness of the pulpit ministry plummeted, because the focus shifted to something other than the gospel at the moment of their backpedaling.
 
-> “He said to them, "Then render to Caesar the things that are Caesar's, and to God the things that are God's." (Luke 20:25, ESV)
-> “And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all.” (Ephesians 1:22–23, ESV)
+### Disobeying Scripture
 
-> ““Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven. “Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you. “You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people’s feet. “You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.” (Matthew 5:10–16, ESV)
+The amazing thing about Scripture is that it's quite clear when it comes to the commands of God. If it says to do a particular thing, then it's clear that it's not commanding the opposite (Scripture never contradicts itself). So then, let's consider the following passage from Hebrews 10:
 
-> “And calling the crowd to him with his disciples, he said to them, “If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it. For what does it profit a man to gain the whole world and forfeit his soul? For what can a man give in return for his soul? For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels.”” (Mark 8:34–38, ESV) === already covered (also Luke 9:23-26, Matt 16:24-26)
+> And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near. (Hebrews 10:24–25, ESV)
 
-# notes
+We can conclude from here that we're expected to gather together physically for the purposes of "stirring up one another to love and good works" and "encouraging one another". What's more is that we're expected to increase in our gathering, "as you see the Day drawing near" (which is regarding Jesus' return and judgement, in which we are living in such times)!
 
-- 1 peter is goated
-  - consider 1 pe 2, where it talks ab authority
-- and also consider rom 13, these 2 are very popular ab authority
+You might carry the sentiment, "why are we expected to gather physically together? Can't we just meet together online?". The author of Hebrews addresses this, by calling out those who neglected to meet together. If you were not physically present, you failed to meet together, and subsequently failed to stir up one another to love and good works and failed to encourage each other. In fact, the entire New Testament never knows of any believer who was without a church to gather with.
 
-- 1 kings 22 - example of the prophet micaiah speaking truth, yet the king disregarding/not wanting to hear
-- 2 thes 2:11 - those desiring falsehood instead of the truth will ultimately be destroyed
-- amos - israel gets rebuked the harshest
-- 1 pe 4:17 - judgement begins in God's household first
+The underlying belief here is that all believers are expected to belong to a local church (the NT uses the word "church" more often to refer to a local congregation, instead of "all believers"). [Romans 7:4]() reinforces this idea, that we're to "belong to another" to "bear fruit for God". This is also the reason why believers should become known in a local congregation (i.e., become a member of a church)!
 
----
+The Greek word for "church", _ἐκκλησία_ (ekklesia) also translates to "assembly" or "congregation". Note the root words: "assemble" and "congregate". You could even lump in "gather" as a synonym to these. What's clear is that _ἐκκλησία_ doesn't translate to "scatter", nor "Zoom call", nor anything of the like.
 
-Preaching, and the Glory of God
+What I found the most insane was that churches put blockers to the gathering of the saints. There were limits on the amount of people that could join the gathering, and conditions that you needed to meet (such as demonstrating a certain body temperature, or bridling a mask) — what a horror! To think that there were people that were denied hearing the gospel!
 
-Glory of God
+This is all to say, you cannot with Scriptural reasoning equate gathering physically together with "remotely gathering". I don't need to press the matter further, since it's obvious that almost all churches failed to gather together during the pandemic, and thereby, have disobeyed Scripture.
 
-- 1 kings 8-9 (glory of God enters the temple)
-- Ezek 10 (it leaves the temple)
-- Ezek 43 (re-enters)
-- Hag 1:5 - 2:9 (people are prompted to rebuild)
+### Misconstruing Scripture
 
-"Love your Neighbour"; the ultimate love for your neighbour (concern for their eternity)
+Another amazing thing about Scripture is that it answers itself. When you have questions, you can get answers by reading onwards, be it within the same passage, or in parallel accounts. What happened during the pandemic is that people (preachers and laypersons alike) totally failed to read Scripture in its completeness!
 
-> ““You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’ But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same? And if you greet only your brothers, what more are you doing than others? Do not even the Gentiles do the same? You therefore must be perfect, as your heavenly Father is perfect.” (Matthew 5:43–48, ESV)
+Take for example, the hot topic of submitting to governing authorities. Passages like Romans 13 and 1 Peter 2 were often brought up during the pandemic, and people came to the conclusion that they should outright obey everything that their government has to say about how their church operates. Consider these passages:
+
+> Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment. (Romans 13:1–2, ESV)
+> Be subject for the Lord’s sake to every human institution, whether it be to the emperor as supreme, or to governors as sent by him (1 Peter 2:13-14a, ESV)
+
+You might be tempted to come to the conclusion, that we must obey everything that our government says. However, if you simply read the next verses in those passages, you'll notice the _conditions_ for obeying the government:
+
+> For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, for he is God’s servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God’s wrath on the wrongdoer. (Romans 13:3–4, ESV)
+> [...] to punish those who do evil and to praise those who do good. (1 Peter 2:14b, ESV)
+
+These two passages assume that the government is working to punish evil and reward good. Romans 13 says God has instituted governments for the purposes of restraining evil. So then, before we obey the government, we must ask, are governments living up to their purpose? What is our working definition of "good" and "evil"?
+
+Well, if you are a Christian, those definitions come from God Himself! God never contradicts Himself. And this includes the hierarchy of authority, since all things were created for God ([Col. 1:15-20]()). Luke 20 and Ephesians 1 also makes this distinction very clear:
+
+> He said to them, "Then render to Caesar the things that are Caesar's, and to God the things that are God's. (Luke 20:25, ESV)
+> And he put all things under his feet and gave him as head over all things to the church, which is his body, the fullness of him who fills all in all. (Ephesians 1:22–23, ESV)
+
+From these two passages, we can conclude that there is a domain that God has granted to governments to govern (though they aren't to operate in contradiction to God), that Christ is the head of all things (including governments and churches), and that we must render to God what belongs to Him (which technically is all things, [Ps. 24:1]()).
+
+What's astonishing then, is how quick churches were to hand over the headship of their churches to the government during the pandemic! They did this by obeying everything the government had commanded (especially with regards to limits on physical gathering), without first giving pause and considering whether such commands were in contradiction to God. While I use the pronoun "they" here, the truth is that **all** churches failed in this aspect. All failed to realize that the bride of Christ, the church, belong to the groom, that is Jesus ([Eph. 5:25-32](), [Rev. 19:7-9]()), not the government. So how would the groom react if He saw His bride playing the whore?
+
+This however, was not the only misconstruing during the pandemic. Another famous passage that was twisted to fit the whims of man was the very greatest teaching of Jesus:
+
+> "Teacher, which is the great commandment in the Law?" And he said to him, "You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets." (Matthew 22:36–40, ESV)
+
+The rhetoric used at the time was that it was "loving" to fail to gather such that your neighbour would be safe from the virus. This however has many inconsistencies.
+
+First, it disregards the first command, to "love the Lord your God", as it's not loving of God's people to not worship Him (for He alone is worthy to be praised). Second, it equates physical gathering with the certainty of spreading a virus. Third, it assumes the infinite worth of physical health (which is not the case, as we've already covered). And fourth, it twists the very definition of love.
+
+What is love? Well, the great apostle of love has much to say about that:
+
+> In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins. (1 John 4:10, ESV)
+> There is no fear in love, but perfect love casts out fear. For fear has to do with punishment, and whoever fears has not been perfected in love. (1 John 4:18, ESV)
+> For this is the love of God, that we keep his commandments. And his commandments are not burdensome. (1 John 5:3, ESV)
+> And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it. (2 John 6, ESV)
+
+Notice how John mentions that "perfect love casts out fear". There is no qualifier for the kind of fear that gets cast out by love. In other words, all fear is cast out, including fears of a virus.
+
+The apostle Paul also richly described love in 1 Corinthians 13:
+
+> Love is patient and kind; love does not envy or boast; it is not arrogant or rude. It does not insist on its own way; it is not irritable or resentful; it does not rejoice at wrongdoing, but rejoices with the truth. Love bears all things, believes all things, hopes all things, endures all things. (1 Corinthians 13:4–7, ESV)
+
+The truth is that love is defined by Christ Jesus Himself! And knowing that the greatest act of love was displayed at Calvary, it is loving to promote and spread such a gospel. In other words, it is loving to gather together, because by gathering, God receives His due worship, and the gospel is preached to sinners.
+
+# Admonishments
+
+While the pandemic was hard on every church, I don't believe that to be an excuse to continue upholding the belief that you were in the right to stop gathering/preaching, or even seemingly neutral statements like, "we did what we could". I've demonstrated extensively through the Scriptures that the shortcomings of churches during the pandemic were indeed sin, because we failed to live up to God's standard for His church.
+
+So then, I charge you to repent of your sin! Why continue in your hard-heartedness when the Saviour is so willingly and gladly grants His grace? Only, turn away from your sin and walk no longer in it. While the pandemic is over, it's not too late to repent.
+
+> "Seek the LORD while he may be found; call upon him while he is near; let the wicked forsake his way, and the unrighteous man his thoughts; let him return to the LORD, that he may have compassion on him, and to our God, for he will abundantly pardon. For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts. (Isaiah 55:6–9, ESV)
+
+And to the unrepentant, I warn you with the three following passages in Scripture:
+
+> Therefore God sends them a strong delusion, so that they may believe what is false, in order that all may be condemned who did not believe the truth but had pleasure in unrighteousness. (2 Thessalonians 2:11–12, ESV)
+
+> For it is time for judgment to begin at the household of God; and if it begins with us, what will be the outcome for those who do not obey the gospel of God? (1 Peter 4:17, ESV)
+
+> [...] but the one who denies me before men will be denied before the angels of God. [...] but the one who blasphemes against the Holy Spirit will not be forgiven. (Luke 12:9, 10b, ESV)
+
+# Exhortations
+
+To quote MLJ once again in his Preaching and Preachers lecture series, he gives a thought experiment:
+
+> Think of a man who is not a Christian, a man of the world who suddenly nds himself in great trouble. He has a terrible problem and no one seems able to help him, Walking along the streets aimlessly he happens to pass a church, a place of worship, and he decides to go in wondering whether he will nd help there. Now if he nds just a little handful of people there, people who look miserable and, as the preacher begins to preach, keep looking at their watches repeatedly, he will come to the conclusion that there is nothing in it. He will conclude that this handful of people do this sort of thing probably because they were brought up to do so, and have not thought su ciently about it even to stop doing it. It obviously does not mean much to them; they are doing it clearly as a matter of routine or tradition, or out of a sense of duty. The poor man will be entirely put o ; it will not help him at all. But if he goes into a church which is packed with people and becomes conscious of a spirit of anticipation, and sees a people who are eagerly looking forward to something, he will say, ‘There is something in this. What is it that brings these people here, this great crowd of people?’ So he is interested immediately and begins to pay close attention to everything. The very fact of a crowd of people doing this has often been used by the Spirit of God to lead people to conviction and conversion. — Martyn Lloyd-Jones in Preaching and Preachers, [The Character of the Message]()
+
+God providentially uses the gathering and public worship to bring people to himself! I'm glad to report to you that there were churches that turned from their sin and re-opened their churches during the pandemic. While this definitely attracted a particular crowd of outsiders (and this time, the more conservative, "freedom fighter" type of people), and while some had the wrong understanding of gathering and stopped attending church services, an overwhelming amount were converted not to Christ-less conservatism, but to Christ Himself. Such churches saw the great blessing of sanctification, and multiple waves of repentance and the increase of believers.
+
+What should we do in the face of adversity (be it pandemics, wars, or even inclement weather)? We should still gather! Consider one of Spurgeon's final letters during the influenza outbreak:
+
+> "Would it not be well for all the churches to hold special meetings for prayer concerning the deadly scourge of influenza?"
+> The suggestion has no doubt, been made by others; but I venture to press it upon Christians of all denominations that they may, in turn, urge all their pastors to summon such meetings. Our nation is fast learning to forget God. In too many instances ministers of religion have propagated doubt, and the result is a general hardening of the popular feeling, and a greatly increased neglect of public worship. It is written, "When thy judgement are in the earth, the inhabitants of the world will learn righteousness." Let us, who believe in inspired Scripture, unite our prayers that it may even be so. With a court and a nation in deepest mourning, it is a time to cry mightily unto the Lord. — Charles Spurgeon
+
+You might ask, "How then, should we go about gathering?". To which I say, gather as wise as serpents ([Matt. 10:16]())! This doesn't mean to "have nuance in whether or not to gather"; Gathering together isn't a thing to be questioned — God's people must assemble to worship Him weekly. What I mean by "with wisdom", takes inspiration from MLJ, where he continued to hold public worship during World War 2, but simply turned off the lights of his buildings to avoid giving away their location during the air raids. That is to say, you don't need to be reckless in how you gather; but gathering is essential for God's people.
+
+How about inclement weather? Take Spurgeon's personal conversion story as inspiration! He was caught in the middle of a winter storm, and was forced to find shelter at a church building that just so happened to hold its worship service. It was by attending that service that he heard the gospel, and was converted to Christ.
+
+This is all to say, regardless of circumstances, the church must continue to gather and preach the gospel of Jesus Christ. And who knows how greatly God will bless your congregation and your worship service? Perhaps, the next Prince of Preachers will spring up as a result of God's people continuing to obey what He has commanded.
+
+Finally, I provide a small list of Scripture to encourage you:
+
+> "And I tell you, everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God, And everyone who speaks a word against the Son of Man will be forgiven. (Luke 12:8, 10a, ESV)
+
+> "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven. "Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you. "You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people’s feet. "You are the light of the world. A city set on a hill cannot be hidden. Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house. In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven. (Matthew 5:10–16, ESV)
+
+Aside: This is to say, that blessing doesn't come because of persecution, it doesn't come because we "stand for a cause" (unlike the Christ-less conservatism that we also saw during the pandemic); but rather, for **righteousness' sake**. I'll point you to [MLJ's sermon series on the Sermon on the Mount]() if you want more clarity here.
+
+While the world remains increasingly hostile to God, while there are more and more abandoning the gospel for another one (not that there is another gospel), while some churches are crumbling to the pressures culture or to be replaced by entertainment venues, Jesus Himself gives us assurance. That it is He who builds His church, and that the gates of hell will never prevail against it.
+
+> [...] I will build my church, and the gates of hell shall not prevail against it. (Matthew 16:18b, ESV)
+
+# Resources
+
+- Shepherds for Sale
+- Preaching and Preachers
+- Reformed Preaching
