@@ -14,6 +14,41 @@ header:
 excerpt: A post-mortem on preaching during the pandemic.
 ---
 
+Anda's notes to the editors
+
+### Why do I want to write this?
+
+- Critiquing how the general response of (Canadian) churches during the pandemic (esp. regards to preaching), was the result of a deeper issue - a deprioritizing of preaching the Word
+  - Q: should I use explicit quotes from church leaders that condemned gathering and worship of other churches? I'm not convinced I should call them out by name... not my goal, but I do want to showcase that this was the reality and unfortunate norm, that even the hearts of the vast majority of leaders were hardened (ultimately against God)
+- Highlight how, faithful preaching leads to more sinners saved (testimonies of people that came to faith during the pandemic); and thus we should continue to do so, regardless of the pressures of governments, or even a global health crisis
+
+### What this article DOESN'T cover
+
+- An exhaustive understanding of the Lord's Day/Christian Sabbath
+- A thorough understanding the relationship between the church and state
+- NOT a case study of churches in different circumstances (e.g., different government mandates, different church demographics, different handling policies during the pandemic)
+  - The main message is: you should gather to worship the LORD/preach the Word, and not disdain it, because it's required of us, and belongs rightfully to God, [and not to the government]
+
+### Questions to ask when writing/reviewing
+
+- Is the article: Biblical? Doctrinal? Experiential? Practical? And is it well balanced between them all?
+  - Are the claims that are being made well founded in Scripture?
+  - Is the full experience of the Christian life on display here? That is, is it _experiential_?
+    - It is a healthy mix of a view of the ideal, the real, and the optimistic eternity
+      > Reformed experiential preaching explains how things ought to go in the Christian life (the ideal of Romans 8), how they actually go in Christian struggles (the reality of Romans 7), and the ultimate goal in the kingdom of glory (the optimism of Revelation 21–22). This kind of preaching reaches people where they are in the trenches and gives them tactics and hope for the battle. - Reformed Preaching (Ch. 1)
+- Is the reader encouraged to be strengthened and endure even persecution to live for Christ? Or are they left just feeling condemned without hope?
+
+### How do I intend to get this message across (the outline)?
+
+- Consider preaching from Biblical perspective, and add on support from historical figures
+  - Claims: it is essential, and expected of elders,
+- Our shortcomings during the pandemic
+  - Avoid hypocrisy
+- Is it worth discussing the "reality" of the circumstances? Pressures from the govt?
+- Add: to what end do we preach and gather to worship? The eternal hope to come.
+
+---
+
 ![](/assets/images/when-the-church-surrenders-1.jpg)
 _Photo by: [Micheile Henderson](https://unsplash.com/photos/white-temple-ruins-during-daytime-VWpOwhCzPuE)_
 
