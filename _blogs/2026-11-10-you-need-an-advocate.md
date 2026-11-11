@@ -1,6 +1,6 @@
 ---
 title: You Need an Advocate
-date: 2026-10-10
+date: 2026-11-10
 categories:
   - Blog
 tags:
